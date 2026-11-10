@@ -1,0 +1,4334 @@
+{
+  "student": "Сычёва Ксения Андреевна",
+  "group": "ИНФА-231",
+  "variant": 10,
+  "corpus_source": "books.toscrape.com + синтетический корпус",
+  "corpus_total": 1900,
+  "sample_size": 1500,
+  "random_state": 110,
+  "min_len": 2,
+  "vocabulary_size": 21981,
+  "build_time_seconds": 0.21767786799955502,
+  "query": "magic world",
+  "query_terms": "with",
+  "main_operator": "OR",
+  "and_results_count": 65,
+  "and_time_seconds": 1.1061500117648393e-05,
+  "or_results_count": 614,
+  "or_time_seconds": 3.3521499744892935e-05,
+  "linear_search_time_seconds": 0.1345640000001822,
+  "index_speedup": 2263.0822192091405,
+  "vocabulary_by_min_len": {
+    "1": 22007,
+    "2": 21981,
+    "3": 21787,
+    "4": 20752,
+    "5": 18931
+  },
+  "vocabulary_by_corpus_size": {
+    "100": 4612,
+    "250": 8389,
+    "500": 12597,
+    "1500": 21981
+  },
+  "results": [
+    {
+      "doc_id": 1,
+      "source_id": 1627,
+      "title": "Nykozes Sa Gob",
+      "genre": "Science Fiction",
+      "price": 50.19
+    },
+    {
+      "doc_id": 3,
+      "source_id": 1229,
+      "title": "Vogpot Koke",
+      "genre": "Art",
+      "price": 44.37
+    },
+    {
+      "doc_id": 4,
+      "source_id": 507,
+      "title": "The Constant Princess (The Tudor Court #1)",
+      "genre": "",
+      "price": 16.62
+    },
+    {
+      "doc_id": 7,
+      "source_id": 1461,
+      "title": "Rimov Machine Dictionary",
+      "genre": "Art",
+      "price": 20.68
+    },
+    {
+      "doc_id": 10,
+      "source_id": 1110,
+      "title": "Jon Bac Put Science",
+      "genre": "Science",
+      "price": 41.28
+    },
+    {
+      "doc_id": 11,
+      "source_id": 1410,
+      "title": "Gravity How",
+      "genre": "Historical Fiction",
+      "price": 19.89
+    },
+    {
+      "doc_id": 12,
+      "source_id": 153,
+      "title": "The Kite Runner",
+      "genre": "",
+      "price": 41.82
+    },
+    {
+      "doc_id": 13,
+      "source_id": 1114,
+      "title": "Writing Gyppovtoden Hefbujewwy",
+      "genre": "Biography",
+      "price": 11.41
+    },
+    {
+      "doc_id": 17,
+      "source_id": 1526,
+      "title": "Letter Cyha Zud",
+      "genre": "Mystery",
+      "price": 45.2
+    },
+    {
+      "doc_id": 21,
+      "source_id": 1053,
+      "title": "Ker Lighthouse Tumozgenil",
+      "genre": "Classics",
+      "price": 12.18
+    },
+    {
+      "doc_id": 23,
+      "source_id": 165,
+      "title": "Suddenly in Love (Lake Haven #1)",
+      "genre": "",
+      "price": 55.99
+    },
+    {
+      "doc_id": 26,
+      "source_id": 1294,
+      "title": "Day Glacier",
+      "genre": "Travel",
+      "price": 30.09
+    },
+    {
+      "doc_id": 29,
+      "source_id": 1827,
+      "title": "Caskumolra Science Garden Vu",
+      "genre": "Fantasy",
+      "price": 44.29
+    },
+    {
+      "doc_id": 31,
+      "source_id": 1208,
+      "title": "Letter Pitec This",
+      "genre": "Horror",
+      "price": 44.35
+    },
+    {
+      "doc_id": 32,
+      "source_id": 1624,
+      "title": "Planet Fogyhosi Cyn",
+      "genre": "Romance",
+      "price": 13.52
+    },
+    {
+      "doc_id": 33,
+      "source_id": 1354,
+      "title": "Tywowe Museum Hefuw",
+      "genre": "Travel",
+      "price": 21.4
+    },
+    {
+      "doc_id": 37,
+      "source_id": 742,
+      "title": "The Land of 10,000 Madonnas",
+      "genre": "",
+      "price": 29.64
+    },
+    {
+      "doc_id": 43,
+      "source_id": 1591,
+      "title": "La Latut",
+      "genre": "Poetry",
+      "price": 23.8
+    },
+    {
+      "doc_id": 44,
+      "source_id": 1792,
+      "title": "Lytkegmud Have Letter Canyon",
+      "genre": "Music",
+      "price": 41.72
+    },
+    {
+      "doc_id": 46,
+      "source_id": 561,
+      "title": "Tell the Wolves I&#39;m Home",
+      "genre": "",
+      "price": 50.96
+    },
+    {
+      "doc_id": 48,
+      "source_id": 1392,
+      "title": "Hojmavfo Pa Hyjok",
+      "genre": "Classics",
+      "price": 33.26
+    },
+    {
+      "doc_id": 49,
+      "source_id": 1809,
+      "title": "Hojmavfo Story",
+      "genre": "Fantasy",
+      "price": 55.98
+    },
+    {
+      "doc_id": 50,
+      "source_id": 260,
+      "title": "Swell: A Year of Waves",
+      "genre": "",
+      "price": 45.58
+    },
+    {
+      "doc_id": 56,
+      "source_id": 362,
+      "title": "The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore",
+      "genre": "",
+      "price": 59.15
+    },
+    {
+      "doc_id": 60,
+      "source_id": 172,
+      "title": "Scarlett Epstein Hates It Here",
+      "genre": "",
+      "price": 43.55
+    },
+    {
+      "doc_id": 63,
+      "source_id": 674,
+      "title": "Harry Potter and the Half-Blood Prince (Harry Potter #6)",
+      "genre": "",
+      "price": 48.75
+    },
+    {
+      "doc_id": 65,
+      "source_id": 337,
+      "title": "Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)",
+      "genre": "",
+      "price": 58.14
+    },
+    {
+      "doc_id": 69,
+      "source_id": 1685,
+      "title": "Rahenvijma Pujiv Machine World",
+      "genre": "Poetry",
+      "price": 42.18
+    },
+    {
+      "doc_id": 70,
+      "source_id": 1611,
+      "title": "For Kingdom",
+      "genre": "Fantasy",
+      "price": 23.03
+    },
+    {
+      "doc_id": 72,
+      "source_id": 1820,
+      "title": "Gycozor Evidence Tara Lojduwliwla",
+      "genre": "Thriller",
+      "price": 36.61
+    },
+    {
+      "doc_id": 73,
+      "source_id": 367,
+      "title": "The Children",
+      "genre": "",
+      "price": 11.88
+    },
+    {
+      "doc_id": 74,
+      "source_id": 7,
+      "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+      "genre": "",
+      "price": 17.93
+    },
+    {
+      "doc_id": 76,
+      "source_id": 547,
+      "title": "The Perks of Being a Wallflower",
+      "genre": "",
+      "price": 55.02
+    },
+    {
+      "doc_id": 77,
+      "source_id": 1521,
+      "title": "Ni Gycozor",
+      "genre": "Art",
+      "price": 18.56
+    },
+    {
+      "doc_id": 79,
+      "source_id": 25,
+      "title": "Birdsong: A Story in Pictures",
+      "genre": "",
+      "price": 54.64
+    },
+    {
+      "doc_id": 88,
+      "source_id": 1293,
+      "title": "River Citvyfpysvo Di Love",
+      "genre": "Horror",
+      "price": 49.43
+    },
+    {
+      "doc_id": 92,
+      "source_id": 754,
+      "title": "The End of Faith: Religion, Terror, and the Future of Reason",
+      "genre": "",
+      "price": 22.13
+    },
+    {
+      "doc_id": 93,
+      "source_id": 91,
+      "title": "Masks and Shadows",
+      "genre": "",
+      "price": 56.4
+    },
+    {
+      "doc_id": 102,
+      "source_id": 185,
+      "title": "Large Print Heart of the Pride",
+      "genre": "",
+      "price": 19.15
+    },
+    {
+      "doc_id": 103,
+      "source_id": 167,
+      "title": "Soft Apocalypse",
+      "genre": "",
+      "price": 26.12
+    },
+    {
+      "doc_id": 104,
+      "source_id": 176,
+      "title": "Poems That Make Grown Women Cry",
+      "genre": "",
+      "price": 14.19
+    },
+    {
+      "doc_id": 105,
+      "source_id": 1009,
+      "title": "Translation The Promise Sekyftofse",
+      "genre": "Romance",
+      "price": 17.59
+    },
+    {
+      "doc_id": 106,
+      "source_id": 1079,
+      "title": "For Detective Memory Are",
+      "genre": "Childrens",
+      "price": 46.19
+    },
+    {
+      "doc_id": 109,
+      "source_id": 1106,
+      "title": "Gyppovtoden Paduj Escape",
+      "genre": "Biography",
+      "price": 24.37
+    },
+    {
+      "doc_id": 110,
+      "source_id": 226,
+      "title": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+      "genre": "",
+      "price": 45.95
+    },
+    {
+      "doc_id": 111,
+      "source_id": 71,
+      "title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+      "genre": "",
+      "price": 19.73
+    },
+    {
+      "doc_id": 113,
+      "source_id": 268,
+      "title": "See America: A Celebration of Our National Parks &amp; Treasured Sites",
+      "genre": "",
+      "price": 48.87
+    },
+    {
+      "doc_id": 115,
+      "source_id": 264,
+      "title": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
+      "genre": "",
+      "price": 44.74
+    },
+    {
+      "doc_id": 118,
+      "source_id": 1334,
+      "title": "Reading Diho Kavi Lugkeper",
+      "genre": "Art",
+      "price": 49.07
+    },
+    {
+      "doc_id": 122,
+      "source_id": 1138,
+      "title": "Cabjytynpip Vogpot",
+      "genre": "Romance",
+      "price": 52.9
+    },
+    {
+      "doc_id": 123,
+      "source_id": 1431,
+      "title": "Savanna Wipsaruda",
+      "genre": "Horror",
+      "price": 57.82
+    },
+    {
+      "doc_id": 126,
+      "source_id": 125,
+      "title": "A Fierce and Subtle Poison",
+      "genre": "",
+      "price": 28.13
+    },
+    {
+      "doc_id": 128,
+      "source_id": 162,
+      "title": "The Art of War",
+      "genre": "",
+      "price": 33.34
+    },
+    {
+      "doc_id": 129,
+      "source_id": 1735,
+      "title": "Nivavgyh Cegip Hy",
+      "genre": "Thriller",
+      "price": 14.89
+    },
+    {
+      "doc_id": 130,
+      "source_id": 485,
+      "title": "Brilliant Beacons: A History of the American Lighthouse",
+      "genre": "",
+      "price": 11.45
+    },
+    {
+      "doc_id": 133,
+      "source_id": 1634,
+      "title": "Luwkalammu Kamebnol Jebcato",
+      "genre": "Horror",
+      "price": 18.71
+    },
+    {
+      "doc_id": 136,
+      "source_id": 1806,
+      "title": "Stranger Vutgyvebe",
+      "genre": "Mystery",
+      "price": 35.94
+    },
+    {
+      "doc_id": 138,
+      "source_id": 1817,
+      "title": "Any Cisywij Citvyfpysvo",
+      "genre": "Art",
+      "price": 43.78
+    },
+    {
+      "doc_id": 139,
+      "source_id": 1476,
+      "title": "Ri Goducwes Regbojakdu Map",
+      "genre": "Historical Fiction",
+      "price": 22.53
+    },
+    {
+      "doc_id": 141,
+      "source_id": 1370,
+      "title": "Signal Ruve Canepybe Writing",
+      "genre": "Classics",
+      "price": 22.46
+    },
+    {
+      "doc_id": 142,
+      "source_id": 115,
+      "title": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle",
+      "genre": "",
+      "price": 29.14
+    },
+    {
+      "doc_id": 144,
+      "source_id": 279,
+      "title": "Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 &amp; 42 (Naruto: Omnibus #14)",
+      "genre": "",
+      "price": 38.39
+    },
+    {
+      "doc_id": 147,
+      "source_id": 169,
+      "title": "Shoe Dog: A Memoir by the Creator of NIKE",
+      "genre": "",
+      "price": 23.99
+    },
+    {
+      "doc_id": 150,
+      "source_id": 1825,
+      "title": "Ruve Accent Ra Ca",
+      "genre": "History",
+      "price": 27.26
+    },
+    {
+      "doc_id": 151,
+      "source_id": 1367,
+      "title": "That Rimov",
+      "genre": "Poetry",
+      "price": 39.21
+    },
+    {
+      "doc_id": 154,
+      "source_id": 1006,
+      "title": "Hedu Clock Gakka",
+      "genre": "Mystery",
+      "price": 47.13
+    },
+    {
+      "doc_id": 155,
+      "source_id": 144,
+      "title": "The Project",
+      "genre": "",
+      "price": 10.65
+    },
+    {
+      "doc_id": 156,
+      "source_id": 1686,
+      "title": "Has Tamo Treaty Nivavgyh",
+      "genre": "Philosophy",
+      "price": 49.48
+    },
+    {
+      "doc_id": 157,
+      "source_id": 689,
+      "title": "A New Earth: Awakening to Your Life&#39;s Purpose",
+      "genre": "",
+      "price": 55.65
+    },
+    {
+      "doc_id": 160,
+      "source_id": 930,
+      "title": "The Last Girl (The Dominion Trilogy #1)",
+      "genre": "",
+      "price": 36.26
+    },
+    {
+      "doc_id": 166,
+      "source_id": 919,
+      "title": "The Selfish Gene",
+      "genre": "",
+      "price": 29.45
+    },
+    {
+      "doc_id": 167,
+      "source_id": 1895,
+      "title": "Science Liszi Station",
+      "genre": "Romance",
+      "price": 39.96
+    },
+    {
+      "doc_id": 169,
+      "source_id": 1667,
+      "title": "Harywcocik He Any Dapfo",
+      "genre": "Classics",
+      "price": 50.33
+    },
+    {
+      "doc_id": 171,
+      "source_id": 1071,
+      "title": "Tupdewluwjed Di Battle",
+      "genre": "History",
+      "price": 29.47
+    },
+    {
+      "doc_id": 172,
+      "source_id": 478,
+      "title": "Howl and Other Poems",
+      "genre": "",
+      "price": 40.45
+    },
+    {
+      "doc_id": 173,
+      "source_id": 1283,
+      "title": "Murder Engineer Ge",
+      "genre": "Music",
+      "price": 54.13
+    },
+    {
+      "doc_id": 177,
+      "source_id": 1282,
+      "title": "Nir Ru Ge",
+      "genre": "Thriller",
+      "price": 16.39
+    },
+    {
+      "doc_id": 181,
+      "source_id": 593,
+      "title": "The Little Paris Bookshop",
+      "genre": "",
+      "price": 24.73
+    },
+    {
+      "doc_id": 185,
+      "source_id": 1056,
+      "title": "Fefegmyl Wakfachi Wo Sejam",
+      "genre": "Classics",
+      "price": 13.34
+    },
+    {
+      "doc_id": 189,
+      "source_id": 1606,
+      "title": "Pujiv Cebitup Rok Story",
+      "genre": "Horror",
+      "price": 19.17
+    },
+    {
+      "doc_id": 194,
+      "source_id": 33,
+      "title": "The Bear and the Piano",
+      "genre": "",
+      "price": 36.89
+    },
+    {
+      "doc_id": 195,
+      "source_id": 829,
+      "title": "Hungry Girl Clean &amp; Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World",
+      "genre": "",
+      "price": 33.14
+    },
+    {
+      "doc_id": 196,
+      "source_id": 278,
+      "title": "No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon",
+      "genre": "",
+      "price": 21.95
+    },
+    {
+      "doc_id": 204,
+      "source_id": 1783,
+      "title": "Log Hykalel",
+      "genre": "Art",
+      "price": 21.78
+    },
+    {
+      "doc_id": 207,
+      "source_id": 804,
+      "title": "Morning Star (Red Rising #3)",
+      "genre": "",
+      "price": 29.4
+    },
+    {
+      "doc_id": 208,
+      "source_id": 977,
+      "title": "Having the Barbarian&#39;s Baby (Ice Planet Barbarians #7.5)",
+      "genre": "",
+      "price": 34.96
+    },
+    {
+      "doc_id": 209,
+      "source_id": 396,
+      "title": "Sleeping Giants (Themis Files #1)",
+      "genre": "",
+      "price": 48.74
+    },
+    {
+      "doc_id": 213,
+      "source_id": 1250,
+      "title": "For Zegotna Menboco Wakfachi",
+      "genre": "Art",
+      "price": 23.9
+    },
+    {
+      "doc_id": 214,
+      "source_id": 780,
+      "title": "Seven Days in the Art World",
+      "genre": "",
+      "price": 52.33
+    },
+    {
+      "doc_id": 217,
+      "source_id": 135,
+      "title": "The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”",
+      "genre": "",
+      "price": 58.08
+    },
+    {
+      "doc_id": 220,
+      "source_id": 281,
+      "title": "My Mrs. Brown",
+      "genre": "",
+      "price": 24.48
+    },
+    {
+      "doc_id": 222,
+      "source_id": 1879,
+      "title": "Ri Nivavgyh What",
+      "genre": "Romance",
+      "price": 38.34
+    },
+    {
+      "doc_id": 223,
+      "source_id": 182,
+      "title": "Louisa: The Extraordinary Life of Mrs. Adams",
+      "genre": "",
+      "price": 16.85
+    },
+    {
+      "doc_id": 227,
+      "source_id": 1581,
+      "title": "Orbit Nebav Spell",
+      "genre": "Classics",
+      "price": 50.92
+    },
+    {
+      "doc_id": 228,
+      "source_id": 702,
+      "title": "Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination",
+      "genre": "",
+      "price": 50.66
+    },
+    {
+      "doc_id": 229,
+      "source_id": 1567,
+      "title": "Window Luwkalammu Ruve",
+      "genre": "Travel",
+      "price": 40.87
+    },
+    {
+      "doc_id": 231,
+      "source_id": 805,
+      "title": "Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",
+      "genre": "",
+      "price": 57.83
+    },
+    {
+      "doc_id": 232,
+      "source_id": 1029,
+      "title": "Was Murder Kykyto",
+      "genre": "Science",
+      "price": 53.09
+    },
+    {
+      "doc_id": 233,
+      "source_id": 1196,
+      "title": "Have Robot Escape Shadow",
+      "genre": "Music",
+      "price": 55.17
+    },
+    {
+      "doc_id": 234,
+      "source_id": 477,
+      "title": "Hystopia: A Novel",
+      "genre": "",
+      "price": 21.96
+    },
+    {
+      "doc_id": 235,
+      "source_id": 495,
+      "title": "Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain",
+      "genre": "",
+      "price": 46.33
+    },
+    {
+      "doc_id": 236,
+      "source_id": 868,
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "genre": "",
+      "price": 21.74
+    },
+    {
+      "doc_id": 238,
+      "source_id": 1566,
+      "title": "That On",
+      "genre": "Biography",
+      "price": 21.74
+    },
+    {
+      "doc_id": 239,
+      "source_id": 1761,
+      "title": "Lulcunube Ciritedlaf My Child",
+      "genre": "Childrens",
+      "price": 58.6
+    },
+    {
+      "doc_id": 240,
+      "source_id": 1281,
+      "title": "Metaphor Syj Accent Gycozor",
+      "genre": "Science Fiction",
+      "price": 35.26
+    },
+    {
+      "doc_id": 242,
+      "source_id": 1394,
+      "title": "Defepegte Ny",
+      "genre": "History",
+      "price": 58.53
+    },
+    {
+      "doc_id": 243,
+      "source_id": 1287,
+      "title": "Savanna Gyppovtoden Memory",
+      "genre": "Mystery",
+      "price": 12.69
+    },
+    {
+      "doc_id": 244,
+      "source_id": 1583,
+      "title": "Fihfawiz Vot Map",
+      "genre": "Music",
+      "price": 32.53
+    },
+    {
+      "doc_id": 249,
+      "source_id": 854,
+      "title": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
+      "genre": "",
+      "price": 17.81
+    },
+    {
+      "doc_id": 257,
+      "source_id": 1558,
+      "title": "Ruve Railway",
+      "genre": "Poetry",
+      "price": 50.64
+    },
+    {
+      "doc_id": 258,
+      "source_id": 1156,
+      "title": "World Vutgyvebe",
+      "genre": "Mystery",
+      "price": 37.93
+    },
+    {
+      "doc_id": 259,
+      "source_id": 1891,
+      "title": "Village Fewfy Lovu",
+      "genre": "Horror",
+      "price": 12.33
+    },
+    {
+      "doc_id": 262,
+      "source_id": 1190,
+      "title": "Defepegte Engineer",
+      "genre": "Science",
+      "price": 55.06
+    },
+    {
+      "doc_id": 263,
+      "source_id": 839,
+      "title": "Golden (Heart of Dread #3)",
+      "genre": "",
+      "price": 42.21
+    },
+    {
+      "doc_id": 264,
+      "source_id": 1262,
+      "title": "It Wotfy",
+      "genre": "Biography",
+      "price": 18.6
+    },
+    {
+      "doc_id": 265,
+      "source_id": 1527,
+      "title": "Sijawaj Tulilaw Pitec Targozavje",
+      "genre": "Travel",
+      "price": 15.88
+    },
+    {
+      "doc_id": 266,
+      "source_id": 541,
+      "title": "At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+      "genre": "",
+      "price": 29.93
+    },
+    {
+      "doc_id": 267,
+      "source_id": 1545,
+      "title": "Sazfog Ribbut",
+      "genre": "Science",
+      "price": 53.92
+    },
+    {
+      "doc_id": 270,
+      "source_id": 516,
+      "title": "Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",
+      "genre": "",
+      "price": 52.87
+    },
+    {
+      "doc_id": 271,
+      "source_id": 1840,
+      "title": "Fewfy Stranger Zisuso Serkobnih",
+      "genre": "Mystery",
+      "price": 46.36
+    },
+    {
+      "doc_id": 272,
+      "source_id": 942,
+      "title": "The Art of Not Breathing",
+      "genre": "",
+      "price": 40.83
+    },
+    {
+      "doc_id": 274,
+      "source_id": 1137,
+      "title": "Kykyto Cisywij Vydty Canyon",
+      "genre": "Romance",
+      "price": 22.73
+    },
+    {
+      "doc_id": 275,
+      "source_id": 1064,
+      "title": "Hedu Neighbour Vogpot Fihfawiz",
+      "genre": "Horror",
+      "price": 29.01
+    },
+    {
+      "doc_id": 276,
+      "source_id": 756,
+      "title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+      "genre": "",
+      "price": 57.35
+    },
+    {
+      "doc_id": 277,
+      "source_id": 1439,
+      "title": "Light Nir Glacier Jungle",
+      "genre": "Poetry",
+      "price": 40.26
+    },
+    {
+      "doc_id": 281,
+      "source_id": 671,
+      "title": "Harry Potter and the Sorcerer&#39;s Stone (Harry Potter #1)",
+      "genre": "",
+      "price": 13.9
+    },
+    {
+      "doc_id": 284,
+      "source_id": 1557,
+      "title": "She Descukcuceg Kyclizbaw Vurujkigri",
+      "genre": "Childrens",
+      "price": 32.96
+    },
+    {
+      "doc_id": 287,
+      "source_id": 1790,
+      "title": "Canepybe Cu",
+      "genre": "Travel",
+      "price": 20.57
+    },
+    {
+      "doc_id": 289,
+      "source_id": 795,
+      "title": "Packing for Mars: The Curious Science of Life in the Void",
+      "genre": "",
+      "price": 56.68
+    },
+    {
+      "doc_id": 291,
+      "source_id": 1847,
+      "title": "History Zud Hinofe",
+      "genre": "Childrens",
+      "price": 25.41
+    },
+    {
+      "doc_id": 295,
+      "source_id": 782,
+      "title": "Scarlet (The Lunar Chronicles #2)",
+      "genre": "",
+      "price": 14.57
+    },
+    {
+      "doc_id": 297,
+      "source_id": 67,
+      "title": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+      "genre": "",
+      "price": 56.06
+    },
+    {
+      "doc_id": 308,
+      "source_id": 1403,
+      "title": "Bafev Revolution Ru Winter",
+      "genre": "Biography",
+      "price": 46.72
+    },
+    {
+      "doc_id": 309,
+      "source_id": 55,
+      "title": "The Torch Is Passed: A Harding Family Story",
+      "genre": "",
+      "price": 19.09
+    },
+    {
+      "doc_id": 311,
+      "source_id": 1297,
+      "title": "Have Saluf",
+      "genre": "History",
+      "price": 21.28
+    },
+    {
+      "doc_id": 312,
+      "source_id": 1189,
+      "title": "Paduj Cucy Gyppovtoden Hyjok",
+      "genre": "Thriller",
+      "price": 23.92
+    },
+    {
+      "doc_id": 314,
+      "source_id": 1480,
+      "title": "Kavi Jy World",
+      "genre": "Art",
+      "price": 57.73
+    },
+    {
+      "doc_id": 315,
+      "source_id": 1184,
+      "title": "Light Fefegmyl",
+      "genre": "Travel",
+      "price": 13.07
+    },
+    {
+      "doc_id": 321,
+      "source_id": 1795,
+      "title": "Cyha Lytkegmud Ancient",
+      "genre": "Poetry",
+      "price": 54.01
+    },
+    {
+      "doc_id": 324,
+      "source_id": 1347,
+      "title": "Time Vyc Teskem",
+      "genre": "History",
+      "price": 46.3
+    },
+    {
+      "doc_id": 325,
+      "source_id": 1339,
+      "title": "Cucy Dragon",
+      "genre": "Horror",
+      "price": 25.45
+    },
+    {
+      "doc_id": 331,
+      "source_id": 827,
+      "title": "I&#39;ve Got Your Number",
+      "genre": "",
+      "price": 19.69
+    },
+    {
+      "doc_id": 332,
+      "source_id": 1671,
+      "title": "Sekazdilja Lovu We",
+      "genre": "Science Fiction",
+      "price": 47.87
+    },
+    {
+      "doc_id": 334,
+      "source_id": 1719,
+      "title": "At Hojmavfo Savanna Murder",
+      "genre": "Fantasy",
+      "price": 52.59
+    },
+    {
+      "doc_id": 335,
+      "source_id": 658,
+      "title": "The Beast (Black Dagger Brotherhood #14)",
+      "genre": "",
+      "price": 46.08
+    },
+    {
+      "doc_id": 339,
+      "source_id": 964,
+      "title": "Myriad (Prentor #1)",
+      "genre": "",
+      "price": 58.75
+    },
+    {
+      "doc_id": 340,
+      "source_id": 1201,
+      "title": "Fihfawiz Wobowfi Or From",
+      "genre": "Biography",
+      "price": 34.2
+    },
+    {
+      "doc_id": 343,
+      "source_id": 1085,
+      "title": "Gomguntiduh Givewecjel Silamge Callycufwac",
+      "genre": "Travel",
+      "price": 19.82
+    },
+    {
+      "doc_id": 345,
+      "source_id": 145,
+      "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+      "genre": "",
+      "price": 43.54
+    },
+    {
+      "doc_id": 346,
+      "source_id": 1060,
+      "title": "Wipsaruda And Fogyhosi",
+      "genre": "Science",
+      "price": 25.66
+    },
+    {
+      "doc_id": 350,
+      "source_id": 727,
+      "title": "The Red Tent",
+      "genre": "",
+      "price": 35.66
+    },
+    {
+      "doc_id": 352,
+      "source_id": 1047,
+      "title": "Fihfawiz Dulmu",
+      "genre": "Travel",
+      "price": 45.27
+    },
+    {
+      "doc_id": 353,
+      "source_id": 79,
+      "title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+      "genre": "",
+      "price": 50.4
+    },
+    {
+      "doc_id": 354,
+      "source_id": 90,
+      "title": "My Paris Kitchen: Recipes and Stories",
+      "genre": "",
+      "price": 33.37
+    },
+    {
+      "doc_id": 360,
+      "source_id": 655,
+      "title": "The Demonists (Demonist #1)",
+      "genre": "",
+      "price": 52.11
+    },
+    {
+      "doc_id": 362,
+      "source_id": 803,
+      "title": "Naked",
+      "genre": "",
+      "price": 31.69
+    },
+    {
+      "doc_id": 365,
+      "source_id": 857,
+      "title": "Crazy Rich Asians (Crazy Rich Asians #1)",
+      "genre": "",
+      "price": 49.13
+    },
+    {
+      "doc_id": 366,
+      "source_id": 1853,
+      "title": "Mipo Givewecjel Rahenvijma Vi",
+      "genre": "Childrens",
+      "price": 43.62
+    },
+    {
+      "doc_id": 367,
+      "source_id": 1206,
+      "title": "Gycozor Syj Hi",
+      "genre": "Fantasy",
+      "price": 26.2
+    },
+    {
+      "doc_id": 368,
+      "source_id": 1836,
+      "title": "Lytkegmud Nivagichy",
+      "genre": "Classics",
+      "price": 31.89
+    },
+    {
+      "doc_id": 370,
+      "source_id": 1025,
+      "title": "Writing Mej",
+      "genre": "Childrens",
+      "price": 23.75
+    },
+    {
+      "doc_id": 373,
+      "source_id": 1580,
+      "title": "Menboco Kywpej",
+      "genre": "Thriller",
+      "price": 16.89
+    },
+    {
+      "doc_id": 374,
+      "source_id": 1416,
+      "title": "Museum Where",
+      "genre": "Philosophy",
+      "price": 55.5
+    },
+    {
+      "doc_id": 377,
+      "source_id": 1597,
+      "title": "Zud Answer Savu",
+      "genre": "History",
+      "price": 47.33
+    },
+    {
+      "doc_id": 378,
+      "source_id": 1707,
+      "title": "Comet Tuvebca Pitec",
+      "genre": "Biography",
+      "price": 58.69
+    },
+    {
+      "doc_id": 379,
+      "source_id": 1054,
+      "title": "Voyage Door Cottage",
+      "genre": "Romance",
+      "price": 12.88
+    },
+    {
+      "doc_id": 381,
+      "source_id": 1563,
+      "title": "Li Liszi Serkobnih",
+      "genre": "Poetry",
+      "price": 53.9
+    },
+    {
+      "doc_id": 384,
+      "source_id": 4,
+      "title": "Sapiens: A Brief History of Humankind",
+      "genre": "",
+      "price": 54.23
+    },
+    {
+      "doc_id": 386,
+      "source_id": 1592,
+      "title": "Hojmavfo World Sijawaj Jelivhe",
+      "genre": "Mystery",
+      "price": 45.54
+    },
+    {
+      "doc_id": 387,
+      "source_id": 1560,
+      "title": "Magic Me",
+      "genre": "Poetry",
+      "price": 45.94
+    },
+    {
+      "doc_id": 388,
+      "source_id": 64,
+      "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+      "genre": "",
+      "price": 16.77
+    },
+    {
+      "doc_id": 389,
+      "source_id": 440,
+      "title": "Chernobyl 01:23:40: The Incredible True Story of the World&#39;s Worst Nuclear Disaster",
+      "genre": "",
+      "price": 35.92
+    },
+    {
+      "doc_id": 390,
+      "source_id": 1167,
+      "title": "Ocean Kudi Cym Was",
+      "genre": "Poetry",
+      "price": 19.75
+    },
+    {
+      "doc_id": 393,
+      "source_id": 1655,
+      "title": "Vygu Wep How Koke",
+      "genre": "Philosophy",
+      "price": 29.59
+    },
+    {
+      "doc_id": 396,
+      "source_id": 1687,
+      "title": "Relacy Cabjytynpip",
+      "genre": "Science Fiction",
+      "price": 48.79
+    },
+    {
+      "doc_id": 400,
+      "source_id": 847,
+      "title": "Eragon (The Inheritance Cycle #1)",
+      "genre": "",
+      "price": 43.87
+    },
+    {
+      "doc_id": 401,
+      "source_id": 825,
+      "title": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler&#39;s Berlin",
+      "genre": "",
+      "price": 28.85
+    },
+    {
+      "doc_id": 404,
+      "source_id": 1872,
+      "title": "Mypbofvamgyr Jagcecu Woman",
+      "genre": "Science",
+      "price": 21.53
+    },
+    {
+      "doc_id": 409,
+      "source_id": 1288,
+      "title": "Door Have",
+      "genre": "Poetry",
+      "price": 30.15
+    },
+    {
+      "doc_id": 410,
+      "source_id": 1646,
+      "title": "Kykyto Se",
+      "genre": "Music",
+      "price": 59.99
+    },
+    {
+      "doc_id": 411,
+      "source_id": 286,
+      "title": "Luis Paints the World",
+      "genre": "",
+      "price": 53.95
+    },
+    {
+      "doc_id": 412,
+      "source_id": 1569,
+      "title": "Dragon Lojduwliwla",
+      "genre": "Classics",
+      "price": 56.4
+    },
+    {
+      "doc_id": 414,
+      "source_id": 318,
+      "title": "Crazy Love: Overwhelmed by a Relentless God",
+      "genre": "",
+      "price": 47.72
+    },
+    {
+      "doc_id": 416,
+      "source_id": 1876,
+      "title": "Cucy Zegotna",
+      "genre": "Childrens",
+      "price": 11.13
+    },
+    {
+      "doc_id": 418,
+      "source_id": 1363,
+      "title": "Tumozgenil Reading Bafafgokty Nir",
+      "genre": "Classics",
+      "price": 29.07
+    },
+    {
+      "doc_id": 419,
+      "source_id": 1010,
+      "title": "Dapfo Hamebonub Ancient",
+      "genre": "Science",
+      "price": 23.09
+    },
+    {
+      "doc_id": 421,
+      "source_id": 1197,
+      "title": "Autumn Cyn",
+      "genre": "Art",
+      "price": 57.06
+    },
+    {
+      "doc_id": 422,
+      "source_id": 1389,
+      "title": "Py Rojocvipe",
+      "genre": "Romance",
+      "price": 10.49
+    },
+    {
+      "doc_id": 423,
+      "source_id": 635,
+      "title": "Booked",
+      "genre": "",
+      "price": 17.49
+    },
+    {
+      "doc_id": 424,
+      "source_id": 16,
+      "title": "Olio",
+      "genre": "",
+      "price": 23.88
+    },
+    {
+      "doc_id": 425,
+      "source_id": 685,
+      "title": "Can You Keep a Secret?",
+      "genre": "",
+      "price": 21.94
+    },
+    {
+      "doc_id": 427,
+      "source_id": 143,
+      "title": "The Psychopath Test: A Journey Through the Madness Industry",
+      "genre": "",
+      "price": 36.0
+    },
+    {
+      "doc_id": 428,
+      "source_id": 1273,
+      "title": "Rimov Hojmavfo Glacier Wemhudfo",
+      "genre": "Science",
+      "price": 52.22
+    },
+    {
+      "doc_id": 429,
+      "source_id": 1607,
+      "title": "Empire Gravity Accent Kobihdiw",
+      "genre": "Mystery",
+      "price": 15.85
+    },
+    {
+      "doc_id": 431,
+      "source_id": 39,
+      "title": "You can&#39;t bury them all: Poems",
+      "genre": "",
+      "price": 33.63
+    },
+    {
+      "doc_id": 436,
+      "source_id": 379,
+      "title": "How to Speak Golf: An Illustrated Guide to Links Lingo",
+      "genre": "",
+      "price": 58.32
+    },
+    {
+      "doc_id": 442,
+      "source_id": 1471,
+      "title": "Robot Gravity Nir Zujsonwyhid",
+      "genre": "Fantasy",
+      "price": 28.31
+    },
+    {
+      "doc_id": 445,
+      "source_id": 34,
+      "title": "Sophie&#39;s World",
+      "genre": "",
+      "price": 15.94
+    },
+    {
+      "doc_id": 446,
+      "source_id": 908,
+      "title": "Vampire Girl (Vampire Girl #1)",
+      "genre": "",
+      "price": 53.82
+    },
+    {
+      "doc_id": 447,
+      "source_id": 1265,
+      "title": "Nyci Vot",
+      "genre": "Classics",
+      "price": 21.1
+    },
+    {
+      "doc_id": 454,
+      "source_id": 684,
+      "title": "Candide",
+      "genre": "",
+      "price": 58.63
+    },
+    {
+      "doc_id": 458,
+      "source_id": 1355,
+      "title": "That Susjip Dragon Targozavje",
+      "genre": "Childrens",
+      "price": 41.23
+    },
+    {
+      "doc_id": 460,
+      "source_id": 1766,
+      "title": "All Va Vogpot Canepybe",
+      "genre": "Art",
+      "price": 49.28
+    },
+    {
+      "doc_id": 461,
+      "source_id": 1711,
+      "title": "Science Voyage Empire",
+      "genre": "Classics",
+      "price": 19.78
+    },
+    {
+      "doc_id": 462,
+      "source_id": 171,
+      "title": "Secrets and Lace (Fatal Hearts #1)",
+      "genre": "",
+      "price": 20.27
+    },
+    {
+      "doc_id": 464,
+      "source_id": 1088,
+      "title": "Language Spell Vujislum",
+      "genre": "Mystery",
+      "price": 55.09
+    },
+    {
+      "doc_id": 470,
+      "source_id": 347,
+      "title": "A Man Called Ove",
+      "genre": "",
+      "price": 39.72
+    },
+    {
+      "doc_id": 471,
+      "source_id": 954,
+      "title": "Rat Queens, Vol. 1: Sass &amp; Sorcery (Rat Queens (Collected Editions) #1-5)",
+      "genre": "",
+      "price": 46.96
+    },
+    {
+      "doc_id": 472,
+      "source_id": 157,
+      "title": "The Genius of Birds",
+      "genre": "",
+      "price": 17.24
+    },
+    {
+      "doc_id": 473,
+      "source_id": 1771,
+      "title": "Nir Ribbut",
+      "genre": "Historical Fiction",
+      "price": 11.19
+    },
+    {
+      "doc_id": 476,
+      "source_id": 1017,
+      "title": "Bypdod Hykalel",
+      "genre": "Music",
+      "price": 48.16
+    },
+    {
+      "doc_id": 477,
+      "source_id": 1500,
+      "title": "Jelivhe Ca Wemhudfo Vi",
+      "genre": "Fantasy",
+      "price": 25.95
+    },
+    {
+      "doc_id": 478,
+      "source_id": 9,
+      "title": "The Black Maria",
+      "genre": "",
+      "price": 52.15
+    },
+    {
+      "doc_id": 479,
+      "source_id": 1383,
+      "title": "With Had Ribbut Journey",
+      "genre": "Mystery",
+      "price": 53.01
+    },
+    {
+      "doc_id": 481,
+      "source_id": 861,
+      "title": "Cinder (The Lunar Chronicles #1)",
+      "genre": "",
+      "price": 26.09
+    },
+    {
+      "doc_id": 484,
+      "source_id": 1160,
+      "title": "Cu Fy Hefbujewwy",
+      "genre": "Philosophy",
+      "price": 13.81
+    },
+    {
+      "doc_id": 495,
+      "source_id": 681,
+      "title": "Dark Lover (Black Dagger Brotherhood #1)",
+      "genre": "",
+      "price": 12.87
+    },
+    {
+      "doc_id": 500,
+      "source_id": 523,
+      "title": "Memoirs of a Geisha",
+      "genre": "",
+      "price": 49.67
+    },
+    {
+      "doc_id": 501,
+      "source_id": 1359,
+      "title": "Lowekte Masvudowo Jutze Balod",
+      "genre": "Science",
+      "price": 20.92
+    },
+    {
+      "doc_id": 503,
+      "source_id": 531,
+      "title": "Good in Bed (Cannie Shapiro #1)",
+      "genre": "",
+      "price": 37.05
+    },
+    {
+      "doc_id": 504,
+      "source_id": 1495,
+      "title": "Jungle Ribbut Jon",
+      "genre": "Mystery",
+      "price": 51.19
+    },
+    {
+      "doc_id": 505,
+      "source_id": 28,
+      "title": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+      "genre": "",
+      "price": 40.3
+    },
+    {
+      "doc_id": 507,
+      "source_id": 1443,
+      "title": "Station Zufirylo Dubecmewyf",
+      "genre": "Art",
+      "price": 23.93
+    },
+    {
+      "doc_id": 509,
+      "source_id": 1732,
+      "title": "Cottage Magic",
+      "genre": "Art",
+      "price": 43.33
+    },
+    {
+      "doc_id": 511,
+      "source_id": 896,
+      "title": "Life",
+      "genre": "",
+      "price": 31.58
+    },
+    {
+      "doc_id": 515,
+      "source_id": 844,
+      "title": "Fifty Shades Freed (Fifty Shades #3)",
+      "genre": "",
+      "price": 15.36
+    },
+    {
+      "doc_id": 518,
+      "source_id": 1296,
+      "title": "Wemnusym Teskem",
+      "genre": "Horror",
+      "price": 39.99
+    },
+    {
+      "doc_id": 523,
+      "source_id": 968,
+      "title": "Matilda",
+      "genre": "",
+      "price": 28.34
+    },
+    {
+      "doc_id": 525,
+      "source_id": 1805,
+      "title": "We Winter Treaty",
+      "genre": "Music",
+      "price": 53.85
+    },
+    {
+      "doc_id": 527,
+      "source_id": 990,
+      "title": "Bridget Jones&#39;s Diary (Bridget Jones #1)",
+      "genre": "",
+      "price": 29.82
+    },
+    {
+      "doc_id": 529,
+      "source_id": 490,
+      "title": "32 Yolks",
+      "genre": "",
+      "price": 53.63
+    },
+    {
+      "doc_id": 531,
+      "source_id": 189,
+      "title": "Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond",
+      "genre": "",
+      "price": 49.43
+    },
+    {
+      "doc_id": 534,
+      "source_id": 929,
+      "title": "The Light of the Fireflies",
+      "genre": "",
+      "price": 54.43
+    },
+    {
+      "doc_id": 536,
+      "source_id": 272,
+      "title": "Rain Fish",
+      "genre": "",
+      "price": 23.57
+    },
+    {
+      "doc_id": 538,
+      "source_id": 1579,
+      "title": "Latut Kavi",
+      "genre": "Science Fiction",
+      "price": 45.18
+    },
+    {
+      "doc_id": 539,
+      "source_id": 1803,
+      "title": "Compass Life",
+      "genre": "History",
+      "price": 27.68
+    },
+    {
+      "doc_id": 540,
+      "source_id": 1202,
+      "title": "Story Cebitup Vuwlu Bavipty",
+      "genre": "Childrens",
+      "price": 24.33
+    },
+    {
+      "doc_id": 541,
+      "source_id": 792,
+      "title": "Quiet: The Power of Introverts in a World That Can&#39;t Stop Talking",
+      "genre": "",
+      "price": 43.55
+    },
+    {
+      "doc_id": 544,
+      "source_id": 1322,
+      "title": "Di Window Sekazdilja",
+      "genre": "Horror",
+      "price": 59.03
+    },
+    {
+      "doc_id": 546,
+      "source_id": 999,
+      "title": "1,000 Places to See Before You Die",
+      "genre": "",
+      "price": 26.08
+    },
+    {
+      "doc_id": 550,
+      "source_id": 1678,
+      "title": "Balod Vidwuw",
+      "genre": "Mystery",
+      "price": 19.55
+    },
+    {
+      "doc_id": 554,
+      "source_id": 154,
+      "title": "The House by the Lake",
+      "genre": "",
+      "price": 36.95
+    },
+    {
+      "doc_id": 555,
+      "source_id": 1284,
+      "title": "Sejam Nyvtalo Magic Or",
+      "genre": "Music",
+      "price": 48.83
+    },
+    {
+      "doc_id": 557,
+      "source_id": 654,
+      "title": "The Geography of Bliss: One Grump&#39;s Search for the Happiest Places in the World",
+      "genre": "",
+      "price": 28.23
+    },
+    {
+      "doc_id": 560,
+      "source_id": 1715,
+      "title": "Syj Paduj",
+      "genre": "Mystery",
+      "price": 18.62
+    },
+    {
+      "doc_id": 562,
+      "source_id": 1829,
+      "title": "Railway Station Ra",
+      "genre": "Fantasy",
+      "price": 29.22
+    },
+    {
+      "doc_id": 563,
+      "source_id": 592,
+      "title": "The Mathews Men: Seven Brothers and the War Against Hitler&#39;s U-boats",
+      "genre": "",
+      "price": 42.91
+    },
+    {
+      "doc_id": 564,
+      "source_id": 1341,
+      "title": "Vutgyvebe Fewfy Vohbo",
+      "genre": "Art",
+      "price": 32.22
+    },
+    {
+      "doc_id": 565,
+      "source_id": 202,
+      "title": "Close to You",
+      "genre": "",
+      "price": 49.46
+    },
+    {
+      "doc_id": 566,
+      "source_id": 418,
+      "title": "10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",
+      "genre": "",
+      "price": 24.57
+    },
+    {
+      "doc_id": 567,
+      "source_id": 1130,
+      "title": "Alibi Giso Hejmewsy Chase",
+      "genre": "Historical Fiction",
+      "price": 16.48
+    },
+    {
+      "doc_id": 569,
+      "source_id": 1117,
+      "title": "Museum Wemnusym",
+      "genre": "Biography",
+      "price": 29.3
+    },
+    {
+      "doc_id": 571,
+      "source_id": 1450,
+      "title": "Volcano Rup",
+      "genre": "Mystery",
+      "price": 24.29
+    },
+    {
+      "doc_id": 573,
+      "source_id": 1595,
+      "title": "Sijawaj Duditaz Translation Engineer",
+      "genre": "Fantasy",
+      "price": 52.85
+    },
+    {
+      "doc_id": 575,
+      "source_id": 549,
+      "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+      "genre": "",
+      "price": 59.45
+    },
+    {
+      "doc_id": 577,
+      "source_id": 1118,
+      "title": "Jagcecu Rhythm Fyle With",
+      "genre": "Mystery",
+      "price": 56.82
+    },
+    {
+      "doc_id": 579,
+      "source_id": 1650,
+      "title": "Cucy Citvyfpysvo Jelivhe Bac",
+      "genre": "Fantasy",
+      "price": 36.04
+    },
+    {
+      "doc_id": 582,
+      "source_id": 1772,
+      "title": "Clue Kirahdevun Sijawaj Compass",
+      "genre": "Fantasy",
+      "price": 35.99
+    },
+    {
+      "doc_id": 585,
+      "source_id": 1697,
+      "title": "Defepegte Litgi Verse",
+      "genre": "Horror",
+      "price": 27.66
+    },
+    {
+      "doc_id": 586,
+      "source_id": 1873,
+      "title": "Manuscript Biphuj",
+      "genre": "Horror",
+      "price": 53.36
+    },
+    {
+      "doc_id": 587,
+      "source_id": 245,
+      "title": "The Literature Book (Big Ideas Simply Explained)",
+      "genre": "",
+      "price": 17.43
+    },
+    {
+      "doc_id": 588,
+      "source_id": 1043,
+      "title": "Dyzy Secret Rojocvipe Fujlawodow",
+      "genre": "Art",
+      "price": 42.41
+    },
+    {
+      "doc_id": 589,
+      "source_id": 208,
+      "title": "Batman: The Dark Knight Returns (Batman)",
+      "genre": "",
+      "price": 15.38
+    },
+    {
+      "doc_id": 591,
+      "source_id": 552,
+      "title": "The Invention of Wings",
+      "genre": "",
+      "price": 37.34
+    },
+    {
+      "doc_id": 592,
+      "source_id": 1470,
+      "title": "By Semuha",
+      "genre": "Childrens",
+      "price": 52.86
+    },
+    {
+      "doc_id": 594,
+      "source_id": 657,
+      "title": "The Bone Hunters (Lexy Vaughan &amp; Steven Macaulay #2)",
+      "genre": "",
+      "price": 59.71
+    },
+    {
+      "doc_id": 596,
+      "source_id": 1204,
+      "title": "Sekazdilja Wigocbapma",
+      "genre": "Travel",
+      "price": 43.72
+    },
+    {
+      "doc_id": 598,
+      "source_id": 1133,
+      "title": "Library Put An",
+      "genre": "Music",
+      "price": 37.37
+    },
+    {
+      "doc_id": 601,
+      "source_id": 1353,
+      "title": "Clue Fa Ribbut Tulilaw",
+      "genre": "Romance",
+      "price": 37.78
+    },
+    {
+      "doc_id": 604,
+      "source_id": 1637,
+      "title": "Majvucurud Hef",
+      "genre": "Historical Fiction",
+      "price": 52.81
+    },
+    {
+      "doc_id": 605,
+      "source_id": 1042,
+      "title": "Gudazru Latut Compass Pe",
+      "genre": "Science Fiction",
+      "price": 45.54
+    },
+    {
+      "doc_id": 606,
+      "source_id": 204,
+      "title": "Big Magic: Creative Living Beyond Fear",
+      "genre": "",
+      "price": 30.8
+    },
+    {
+      "doc_id": 607,
+      "source_id": 1532,
+      "title": "Magic Cycbydoh",
+      "genre": "Philosophy",
+      "price": 41.95
+    },
+    {
+      "doc_id": 609,
+      "source_id": 503,
+      "title": "The Good Girl",
+      "genre": "",
+      "price": 49.03
+    },
+    {
+      "doc_id": 613,
+      "source_id": 904,
+      "title": "Where Lightning Strikes (Bleeding Stars #3)",
+      "genre": "",
+      "price": 39.77
+    },
+    {
+      "doc_id": 615,
+      "source_id": 959,
+      "title": "One Second (Seven #7)",
+      "genre": "",
+      "price": 52.94
+    },
+    {
+      "doc_id": 617,
+      "source_id": 1307,
+      "title": "To Powlujvan Tifugsigyl",
+      "genre": "Fantasy",
+      "price": 33.23
+    },
+    {
+      "doc_id": 618,
+      "source_id": 1619,
+      "title": "Wedding Hisjige Vytpodhybbun Paduj",
+      "genre": "Science",
+      "price": 30.63
+    },
+    {
+      "doc_id": 620,
+      "source_id": 781,
+      "title": "Seven Brief Lessons on Physics",
+      "genre": "",
+      "price": 30.6
+    },
+    {
+      "doc_id": 623,
+      "source_id": 1759,
+      "title": "Woman Paduj Ciritedlaf",
+      "genre": "Horror",
+      "price": 31.28
+    },
+    {
+      "doc_id": 626,
+      "source_id": 224,
+      "title": "V for Vendetta (V for Vendetta Complete)",
+      "genre": "",
+      "price": 37.1
+    },
+    {
+      "doc_id": 627,
+      "source_id": 1447,
+      "title": "Tuvebca Latut",
+      "genre": "Classics",
+      "price": 38.81
+    },
+    {
+      "doc_id": 633,
+      "source_id": 48,
+      "title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails &amp; Other Wonders of the Urban Wilderness",
+      "genre": "",
+      "price": 44.18
+    },
+    {
+      "doc_id": 634,
+      "source_id": 1507,
+      "title": "Question Lojduwliwla With",
+      "genre": "Philosophy",
+      "price": 15.12
+    },
+    {
+      "doc_id": 635,
+      "source_id": 1486,
+      "title": "Tifugsigyl Shadow Sazfog Vygu",
+      "genre": "Thriller",
+      "price": 24.05
+    },
+    {
+      "doc_id": 639,
+      "source_id": 402,
+      "title": "M Train",
+      "genre": "",
+      "price": 27.18
+    },
+    {
+      "doc_id": 646,
+      "source_id": 1235,
+      "title": "Of Jelivhe Tofudvad",
+      "genre": "Science Fiction",
+      "price": 31.41
+    },
+    {
+      "doc_id": 651,
+      "source_id": 1589,
+      "title": "Cy Cucy Library Cyn",
+      "genre": "Thriller",
+      "price": 27.18
+    },
+    {
+      "doc_id": 652,
+      "source_id": 1035,
+      "title": "Clue Gomguntiduh",
+      "genre": "Classics",
+      "price": 22.67
+    },
+    {
+      "doc_id": 653,
+      "source_id": 1466,
+      "title": "Wobowfi Ancient",
+      "genre": "Music",
+      "price": 19.65
+    },
+    {
+      "doc_id": 655,
+      "source_id": 818,
+      "title": "Lamb: The Gospel According to Biff, Christ&#39;s Childhood Pal",
+      "genre": "",
+      "price": 55.5
+    },
+    {
+      "doc_id": 657,
+      "source_id": 74,
+      "title": "Soul Reader",
+      "genre": "",
+      "price": 39.58
+    },
+    {
+      "doc_id": 659,
+      "source_id": 951,
+      "title": "Sense and Sensibility",
+      "genre": "",
+      "price": 37.46
+    },
+    {
+      "doc_id": 662,
+      "source_id": 1554,
+      "title": "Map Language",
+      "genre": "Romance",
+      "price": 15.47
+    },
+    {
+      "doc_id": 664,
+      "source_id": 555,
+      "title": "The Golden Compass (His Dark Materials #1)",
+      "genre": "",
+      "price": 18.77
+    },
+    {
+      "doc_id": 667,
+      "source_id": 190,
+      "title": "Frostbite (Vampire Academy #2)",
+      "genre": "",
+      "price": 29.99
+    },
+    {
+      "doc_id": 669,
+      "source_id": 205,
+      "title": "Becoming Wise: An Inquiry into the Mystery and Art of Living",
+      "genre": "",
+      "price": 27.43
+    },
+    {
+      "doc_id": 670,
+      "source_id": 1227,
+      "title": "Navohzisuk What Kavi Citvyfpysvo",
+      "genre": "Classics",
+      "price": 22.95
+    },
+    {
+      "doc_id": 677,
+      "source_id": 249,
+      "title": "The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth",
+      "genre": "",
+      "price": 28.77
+    },
+    {
+      "doc_id": 678,
+      "source_id": 112,
+      "title": "Crown of Midnight (Throne of Glass #2)",
+      "genre": "",
+      "price": 43.29
+    },
+    {
+      "doc_id": 680,
+      "source_id": 1381,
+      "title": "Vogpot Dubecmewyf Vydty",
+      "genre": "Travel",
+      "price": 32.42
+    },
+    {
+      "doc_id": 681,
+      "source_id": 545,
+      "title": "The Sound Of Love",
+      "genre": "",
+      "price": 57.84
+    },
+    {
+      "doc_id": 682,
+      "source_id": 1012,
+      "title": "Door Gu Fujlawodow",
+      "genre": "Classics",
+      "price": 18.16
+    },
+    {
+      "doc_id": 683,
+      "source_id": 1309,
+      "title": "Puj Zapo Knight Dulmu",
+      "genre": "Childrens",
+      "price": 24.58
+    },
+    {
+      "doc_id": 685,
+      "source_id": 121,
+      "title": "A World of Flavor: Your Gluten Free Passport",
+      "genre": "",
+      "price": 42.95
+    },
+    {
+      "doc_id": 687,
+      "source_id": 1594,
+      "title": "Hamebonub Zujsonwyhid Sejam Where",
+      "genre": "Philosophy",
+      "price": 27.7
+    },
+    {
+      "doc_id": 688,
+      "source_id": 1492,
+      "title": "Lighthouse Voyage",
+      "genre": "Horror",
+      "price": 47.07
+    },
+    {
+      "doc_id": 691,
+      "source_id": 494,
+      "title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+      "genre": "",
+      "price": 25.37
+    },
+    {
+      "doc_id": 697,
+      "source_id": 1832,
+      "title": "Diho Ju Rahenvijma Luwkalammu",
+      "genre": "Mystery",
+      "price": 34.27
+    },
+    {
+      "doc_id": 698,
+      "source_id": 1331,
+      "title": "Prison Vygu",
+      "genre": "Childrens",
+      "price": 27.52
+    },
+    {
+      "doc_id": 706,
+      "source_id": 1717,
+      "title": "Hinofe Dubecmewyf Forest",
+      "genre": "Art",
+      "price": 31.73
+    },
+    {
+      "doc_id": 712,
+      "source_id": 1376,
+      "title": "Tuvvinke Magic",
+      "genre": "Poetry",
+      "price": 14.83
+    },
+    {
+      "doc_id": 714,
+      "source_id": 1852,
+      "title": "Library Story",
+      "genre": "Classics",
+      "price": 42.85
+    },
+    {
+      "doc_id": 717,
+      "source_id": 1465,
+      "title": "Paduj Navohzisuk Knowledge Robot",
+      "genre": "History",
+      "price": 39.94
+    },
+    {
+      "doc_id": 719,
+      "source_id": 1254,
+      "title": "Answer Zapo",
+      "genre": "Classics",
+      "price": 56.55
+    },
+    {
+      "doc_id": 722,
+      "source_id": 1499,
+      "title": "Sunoci Writing At Nyvtalo",
+      "genre": "Horror",
+      "price": 17.78
+    },
+    {
+      "doc_id": 724,
+      "source_id": 1036,
+      "title": "Tifugsigyl Mipo",
+      "genre": "Romance",
+      "price": 10.78
+    },
+    {
+      "doc_id": 727,
+      "source_id": 483,
+      "title": "Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World",
+      "genre": "",
+      "price": 28.41
+    },
+    {
+      "doc_id": 729,
+      "source_id": 1504,
+      "title": "Myprinbira Hofy Tuvvinke",
+      "genre": "History",
+      "price": 25.28
+    },
+    {
+      "doc_id": 731,
+      "source_id": 661,
+      "title": "Paper and Fire (The Great Library #2)",
+      "genre": "",
+      "price": 49.45
+    },
+    {
+      "doc_id": 732,
+      "source_id": 1664,
+      "title": "Winter Wicvy He Tupdewluwjed",
+      "genre": "Travel",
+      "price": 39.07
+    },
+    {
+      "doc_id": 733,
+      "source_id": 1364,
+      "title": "Window Battle",
+      "genre": "History",
+      "price": 41.56
+    },
+    {
+      "doc_id": 734,
+      "source_id": 1865,
+      "title": "Murder Honarodhe Wipsaruda",
+      "genre": "Romance",
+      "price": 49.92
+    },
+    {
+      "doc_id": 740,
+      "source_id": 141,
+      "title": "The Secret (The Secret #1)",
+      "genre": "",
+      "price": 27.37
+    },
+    {
+      "doc_id": 742,
+      "source_id": 435,
+      "title": "Modern Day Fables",
+      "genre": "",
+      "price": 47.44
+    },
+    {
+      "doc_id": 752,
+      "source_id": 1111,
+      "title": "Sydyhele Jebcato Rekirolu Village",
+      "genre": "Historical Fiction",
+      "price": 24.68
+    },
+    {
+      "doc_id": 755,
+      "source_id": 295,
+      "title": "Island of Dragons (Unwanteds #7)",
+      "genre": "",
+      "price": 29.65
+    },
+    {
+      "doc_id": 756,
+      "source_id": 413,
+      "title": "Arena",
+      "genre": "",
+      "price": 21.36
+    },
+    {
+      "doc_id": 757,
+      "source_id": 1217,
+      "title": "When My Autumn Writing",
+      "genre": "Classics",
+      "price": 50.49
+    },
+    {
+      "doc_id": 759,
+      "source_id": 1357,
+      "title": "Ny Jungle Wigocbapma Fy",
+      "genre": "Fantasy",
+      "price": 25.18
+    },
+    {
+      "doc_id": 760,
+      "source_id": 180,
+      "title": "Modern Romance",
+      "genre": "",
+      "price": 28.26
+    },
+    {
+      "doc_id": 761,
+      "source_id": 632,
+      "title": "Death Note, Vol. 5: Whiteout (Death Note #5)",
+      "genre": "",
+      "price": 52.41
+    },
+    {
+      "doc_id": 766,
+      "source_id": 1146,
+      "title": "Judyfef Ju",
+      "genre": "Childrens",
+      "price": 37.05
+    },
+    {
+      "doc_id": 769,
+      "source_id": 1004,
+      "title": "Mej Lesson Vu Koke",
+      "genre": "Childrens",
+      "price": 26.44
+    },
+    {
+      "doc_id": 776,
+      "source_id": 1407,
+      "title": "Nyvtalo Nivagichy Fyle",
+      "genre": "Classics",
+      "price": 33.65
+    },
+    {
+      "doc_id": 782,
+      "source_id": 126,
+      "title": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+      "genre": "",
+      "price": 52.37
+    },
+    {
+      "doc_id": 785,
+      "source_id": 1898,
+      "title": "Majvucurud Descukcuceg Lekytavko Summer",
+      "genre": "Horror",
+      "price": 45.79
+    },
+    {
+      "doc_id": 787,
+      "source_id": 505,
+      "title": "The Faith of Christopher Hitchens: The Restless Soul of the World&#39;s Most Notorious Atheist",
+      "genre": "",
+      "price": 39.55
+    },
+    {
+      "doc_id": 789,
+      "source_id": 484,
+      "title": "Death by Leisure: A Cautionary Tale",
+      "genre": "",
+      "price": 37.51
+    },
+    {
+      "doc_id": 790,
+      "source_id": 791,
+      "title": "Ready Player One",
+      "genre": "",
+      "price": 19.07
+    },
+    {
+      "doc_id": 793,
+      "source_id": 926,
+      "title": "The Name of the Wind (The Kingkiller Chronicle #1)",
+      "genre": "",
+      "price": 50.59
+    },
+    {
+      "doc_id": 797,
+      "source_id": 1474,
+      "title": "Wizard Litgi Zufirylo Day",
+      "genre": "Horror",
+      "price": 51.55
+    },
+    {
+      "doc_id": 798,
+      "source_id": 1710,
+      "title": "Canyon Secret",
+      "genre": "Philosophy",
+      "price": 59.66
+    },
+    {
+      "doc_id": 800,
+      "source_id": 1393,
+      "title": "Vi Harywcocik",
+      "genre": "Horror",
+      "price": 25.4
+    },
+    {
+      "doc_id": 802,
+      "source_id": 448,
+      "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+      "genre": "",
+      "price": 36.94
+    },
+    {
+      "doc_id": 809,
+      "source_id": 1863,
+      "title": "Descukcuceg Kykyto",
+      "genre": "Poetry",
+      "price": 35.61
+    },
+    {
+      "doc_id": 814,
+      "source_id": 27,
+      "title": "Aladdin and His Wonderful Lamp",
+      "genre": "",
+      "price": 53.13
+    },
+    {
+      "doc_id": 816,
+      "source_id": 465,
+      "title": "My Life Next Door (My Life Next Door )",
+      "genre": "",
+      "price": 36.39
+    },
+    {
+      "doc_id": 820,
+      "source_id": 445,
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "genre": "",
+      "price": 34.06
+    },
+    {
+      "doc_id": 822,
+      "source_id": 1215,
+      "title": "Teacher Cottage Fo Zud",
+      "genre": "Poetry",
+      "price": 59.77
+    },
+    {
+      "doc_id": 824,
+      "source_id": 1358,
+      "title": "Hef By Paduj",
+      "genre": "Philosophy",
+      "price": 55.02
+    },
+    {
+      "doc_id": 825,
+      "source_id": 888,
+      "title": "The Suffragettes (Little Black Classics, #96)",
+      "genre": "",
+      "price": 11.89
+    },
+    {
+      "doc_id": 826,
+      "source_id": 551,
+      "title": "The Joy of Cooking",
+      "genre": "",
+      "price": 43.27
+    },
+    {
+      "doc_id": 827,
+      "source_id": 1329,
+      "title": "Cipopjojah Rojocvipe",
+      "genre": "Classics",
+      "price": 58.1
+    },
+    {
+      "doc_id": 830,
+      "source_id": 1057,
+      "title": "Hekgogloba Hamebonub Descukcuceg Kyzmokyz",
+      "genre": "Science Fiction",
+      "price": 21.8
+    },
+    {
+      "doc_id": 831,
+      "source_id": 716,
+      "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+      "genre": "",
+      "price": 10.02
+    },
+    {
+      "doc_id": 836,
+      "source_id": 1037,
+      "title": "At Casdispe Cisywij",
+      "genre": "Thriller",
+      "price": 51.33
+    },
+    {
+      "doc_id": 839,
+      "source_id": 533,
+      "title": "For the Love: Fighting for Grace in a World of Impossible Standards",
+      "genre": "",
+      "price": 45.13
+    },
+    {
+      "doc_id": 840,
+      "source_id": 276,
+      "title": "Once Was a Time",
+      "genre": "",
+      "price": 18.28
+    },
+    {
+      "doc_id": 848,
+      "source_id": 1016,
+      "title": "Teskem Vidwuw Ru",
+      "genre": "Music",
+      "price": 38.31
+    },
+    {
+      "doc_id": 851,
+      "source_id": 943,
+      "title": "Taking Shots (Assassins #1)",
+      "genre": "",
+      "price": 18.88
+    },
+    {
+      "doc_id": 853,
+      "source_id": 236,
+      "title": "The Star-Touched Queen",
+      "genre": "",
+      "price": 46.02
+    },
+    {
+      "doc_id": 856,
+      "source_id": 1220,
+      "title": "Zud Revolution",
+      "genre": "Biography",
+      "price": 20.65
+    },
+    {
+      "doc_id": 859,
+      "source_id": 241,
+      "title": "The Marriage of Opposites",
+      "genre": "",
+      "price": 28.08
+    },
+    {
+      "doc_id": 860,
+      "source_id": 1063,
+      "title": "Or On",
+      "genre": "Art",
+      "price": 16.55
+    },
+    {
+      "doc_id": 861,
+      "source_id": 1698,
+      "title": "Zegotna Cottage Vot Comet",
+      "genre": "Art",
+      "price": 31.63
+    },
+    {
+      "doc_id": 865,
+      "source_id": 1333,
+      "title": "Rurogdyz Pujiv Any",
+      "genre": "Travel",
+      "price": 42.51
+    },
+    {
+      "doc_id": 869,
+      "source_id": 1585,
+      "title": "Sa Nivagichy Luvi Nebav",
+      "genre": "Fantasy",
+      "price": 47.55
+    },
+    {
+      "doc_id": 874,
+      "source_id": 1452,
+      "title": "Orbit And Vot Jebcato",
+      "genre": "Romance",
+      "price": 19.33
+    },
+    {
+      "doc_id": 878,
+      "source_id": 1153,
+      "title": "Gakka Luromypru Planet Descukcuceg",
+      "genre": "Art",
+      "price": 35.67
+    },
+    {
+      "doc_id": 879,
+      "source_id": 1752,
+      "title": "Zujsonwyhid Escape",
+      "genre": "Music",
+      "price": 32.62
+    },
+    {
+      "doc_id": 882,
+      "source_id": 1699,
+      "title": "Cyn Night Fipokem Ni",
+      "genre": "Science",
+      "price": 49.5
+    },
+    {
+      "doc_id": 884,
+      "source_id": 1690,
+      "title": "To Ker Sekyftofse Me",
+      "genre": "Poetry",
+      "price": 40.62
+    },
+    {
+      "doc_id": 888,
+      "source_id": 1112,
+      "title": "Secret Lekytavko Savu",
+      "genre": "Poetry",
+      "price": 15.62
+    },
+    {
+      "doc_id": 889,
+      "source_id": 1629,
+      "title": "Sisotub Wakfachi",
+      "genre": "Childrens",
+      "price": 54.87
+    },
+    {
+      "doc_id": 890,
+      "source_id": 1049,
+      "title": "Evidence Orbit Or Zotupihka",
+      "genre": "Romance",
+      "price": 58.9
+    },
+    {
+      "doc_id": 891,
+      "source_id": 1483,
+      "title": "Lulcunube Chase Ny Jebcato",
+      "genre": "Fantasy",
+      "price": 27.47
+    },
+    {
+      "doc_id": 896,
+      "source_id": 234,
+      "title": "The Time Keeper",
+      "genre": "",
+      "price": 27.88
+    },
+    {
+      "doc_id": 904,
+      "source_id": 1603,
+      "title": "Winbygmu Ciritedlaf",
+      "genre": "History",
+      "price": 55.48
+    },
+    {
+      "doc_id": 905,
+      "source_id": 1773,
+      "title": "Dictionary Spell Navohzisuk Lidbetri",
+      "genre": "Horror",
+      "price": 25.1
+    },
+    {
+      "doc_id": 906,
+      "source_id": 1758,
+      "title": "Rok Secret",
+      "genre": "Music",
+      "price": 11.9
+    },
+    {
+      "doc_id": 913,
+      "source_id": 543,
+      "title": "A Short History of Nearly Everything",
+      "genre": "",
+      "price": 52.4
+    },
+    {
+      "doc_id": 914,
+      "source_id": 1400,
+      "title": "Menboco Manuscript Navohzisuk Tabpibav",
+      "genre": "Fantasy",
+      "price": 54.21
+    },
+    {
+      "doc_id": 915,
+      "source_id": 1693,
+      "title": "Lekytavko Fo What Life",
+      "genre": "Romance",
+      "price": 28.07
+    },
+    {
+      "doc_id": 918,
+      "source_id": 798,
+      "title": "Orange Is the New Black",
+      "genre": "",
+      "price": 24.61
+    },
+    {
+      "doc_id": 920,
+      "source_id": 1027,
+      "title": "Viki Love Hedu Evidence",
+      "genre": "Classics",
+      "price": 52.1
+    },
+    {
+      "doc_id": 926,
+      "source_id": 884,
+      "title": "A Storm of Swords (A Song of Ice and Fire #3)",
+      "genre": "",
+      "price": 31.22
+    },
+    {
+      "doc_id": 928,
+      "source_id": 703,
+      "title": "Vegan Vegetarian Omnivore: Dinner for Everyone at the Table",
+      "genre": "",
+      "price": 13.66
+    },
+    {
+      "doc_id": 929,
+      "source_id": 1163,
+      "title": "She Child Wotfy",
+      "genre": "Fantasy",
+      "price": 39.64
+    },
+    {
+      "doc_id": 932,
+      "source_id": 1485,
+      "title": "Robot Canyon",
+      "genre": "Horror",
+      "price": 12.72
+    },
+    {
+      "doc_id": 936,
+      "source_id": 1502,
+      "title": "Fipokem Cyn Vohbo My",
+      "genre": "Fantasy",
+      "price": 19.55
+    },
+    {
+      "doc_id": 937,
+      "source_id": 696,
+      "title": "Where&#39;d You Go, Bernadette",
+      "genre": "",
+      "price": 18.13
+    },
+    {
+      "doc_id": 938,
+      "source_id": 1574,
+      "title": "Rurogdyz Volcano Lulcunube",
+      "genre": "Thriller",
+      "price": 54.23
+    },
+    {
+      "doc_id": 940,
+      "source_id": 903,
+      "title": "While You Were Mine",
+      "genre": "",
+      "price": 41.32
+    },
+    {
+      "doc_id": 941,
+      "source_id": 994,
+      "title": "Beyond Good and Evil",
+      "genre": "",
+      "price": 43.38
+    },
+    {
+      "doc_id": 943,
+      "source_id": 1635,
+      "title": "Were Verdict Witness Engineer",
+      "genre": "History",
+      "price": 34.86
+    },
+    {
+      "doc_id": 944,
+      "source_id": 1269,
+      "title": "Givewecjel Wedding Manuscript Myprinbira",
+      "genre": "Mystery",
+      "price": 51.87
+    },
+    {
+      "doc_id": 945,
+      "source_id": 1150,
+      "title": "Sekazdilja Woman Journey",
+      "genre": "Historical Fiction",
+      "price": 34.28
+    },
+    {
+      "doc_id": 947,
+      "source_id": 1612,
+      "title": "General Cucy",
+      "genre": "Horror",
+      "price": 44.96
+    },
+    {
+      "doc_id": 949,
+      "source_id": 187,
+      "title": "Hollow City (Miss Peregrine’s Peculiar Children #2)",
+      "genre": "",
+      "price": 42.98
+    },
+    {
+      "doc_id": 951,
+      "source_id": 196,
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "genre": "",
+      "price": 34.95
+    },
+    {
+      "doc_id": 952,
+      "source_id": 514,
+      "title": "Sit, Stay, Love",
+      "genre": "",
+      "price": 20.9
+    },
+    {
+      "doc_id": 954,
+      "source_id": 464,
+      "title": "Out of Print: City Lights Spotlight No. 14",
+      "genre": "",
+      "price": 53.64
+    },
+    {
+      "doc_id": 955,
+      "source_id": 1668,
+      "title": "Lovu Pe Volcano",
+      "genre": "Horror",
+      "price": 26.93
+    },
+    {
+      "doc_id": 956,
+      "source_id": 1718,
+      "title": "Mipo Lytkegmud",
+      "genre": "Philosophy",
+      "price": 27.24
+    },
+    {
+      "doc_id": 958,
+      "source_id": 1496,
+      "title": "Knowledge Fo Savu Canepybe",
+      "genre": "Mystery",
+      "price": 44.69
+    },
+    {
+      "doc_id": 960,
+      "source_id": 81,
+      "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+      "genre": "",
+      "price": 13.34
+    },
+    {
+      "doc_id": 961,
+      "source_id": 1733,
+      "title": "History Journey",
+      "genre": "Romance",
+      "price": 52.23
+    },
+    {
+      "doc_id": 962,
+      "source_id": 1796,
+      "title": "Rimov Not",
+      "genre": "Romance",
+      "price": 31.15
+    },
+    {
+      "doc_id": 964,
+      "source_id": 574,
+      "title": "Deception Point",
+      "genre": "",
+      "price": 40.32
+    },
+    {
+      "doc_id": 968,
+      "source_id": 1135,
+      "title": "General Wicvy Cabjytynpip",
+      "genre": "Science Fiction",
+      "price": 39.64
+    },
+    {
+      "doc_id": 970,
+      "source_id": 317,
+      "title": "Daily Fantasy Sports",
+      "genre": "",
+      "price": 36.58
+    },
+    {
+      "doc_id": 971,
+      "source_id": 23,
+      "title": "Chase Me (Paris Nights #2)",
+      "genre": "",
+      "price": 25.27
+    },
+    {
+      "doc_id": 974,
+      "source_id": 255,
+      "title": "The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts",
+      "genre": "",
+      "price": 15.77
+    },
+    {
+      "doc_id": 977,
+      "source_id": 1177,
+      "title": "Kyclizbaw Accent Bafev Niga",
+      "genre": "Philosophy",
+      "price": 35.26
+    },
+    {
+      "doc_id": 979,
+      "source_id": 659,
+      "title": "Some Women",
+      "genre": "",
+      "price": 13.73
+    },
+    {
+      "doc_id": 988,
+      "source_id": 1050,
+      "title": "Sijawaj Magic",
+      "genre": "Mystery",
+      "price": 39.76
+    },
+    {
+      "doc_id": 989,
+      "source_id": 790,
+      "title": "Red: The True Story of Red Riding Hood",
+      "genre": "",
+      "price": 28.54
+    },
+    {
+      "doc_id": 992,
+      "source_id": 252,
+      "title": "The Dovekeepers",
+      "genre": "",
+      "price": 48.78
+    },
+    {
+      "doc_id": 996,
+      "source_id": 1148,
+      "title": "Time Duditaz Diho",
+      "genre": "Fantasy",
+      "price": 49.35
+    },
+    {
+      "doc_id": 999,
+      "source_id": 368,
+      "title": "Stars Above (The Lunar Chronicles #4.5)",
+      "genre": "",
+      "price": 48.05
+    },
+    {
+      "doc_id": 1002,
+      "source_id": 553,
+      "title": "The Hobbit (Middle-Earth Universe)",
+      "genre": "",
+      "price": 17.8
+    },
+    {
+      "doc_id": 1004,
+      "source_id": 1728,
+      "title": "Hefbujewwy World Casdispe Rubmi",
+      "genre": "Philosophy",
+      "price": 32.07
+    },
+    {
+      "doc_id": 1005,
+      "source_id": 65,
+      "title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+      "genre": "",
+      "price": 20.59
+    },
+    {
+      "doc_id": 1007,
+      "source_id": 1002,
+      "title": "Fujlawodow Jon Wemnusym Ciritedlaf",
+      "genre": "Travel",
+      "price": 46.1
+    },
+    {
+      "doc_id": 1009,
+      "source_id": 581,
+      "title": "Will Grayson, Will Grayson (Will Grayson, Will Grayson)",
+      "genre": "",
+      "price": 47.31
+    },
+    {
+      "doc_id": 1010,
+      "source_id": 1048,
+      "title": "Duditaz Life",
+      "genre": "Horror",
+      "price": 28.59
+    },
+    {
+      "doc_id": 1013,
+      "source_id": 717,
+      "title": "The Thing About Jellyfish",
+      "genre": "",
+      "price": 48.77
+    },
+    {
+      "doc_id": 1014,
+      "source_id": 1546,
+      "title": "School Evidence",
+      "genre": "Fantasy",
+      "price": 15.81
+    },
+    {
+      "doc_id": 1015,
+      "source_id": 1610,
+      "title": "Majvucurud Ju Dezlezipy As",
+      "genre": "Historical Fiction",
+      "price": 27.58
+    },
+    {
+      "doc_id": 1018,
+      "source_id": 1547,
+      "title": "Hykalel At Woh Had",
+      "genre": "Travel",
+      "price": 25.45
+    },
+    {
+      "doc_id": 1025,
+      "source_id": 350,
+      "title": "1491: New Revelations of the Americas Before Columbus",
+      "genre": "",
+      "price": 21.8
+    },
+    {
+      "doc_id": 1030,
+      "source_id": 866,
+      "title": "Boy Meets Boy",
+      "genre": "",
+      "price": 21.12
+    },
+    {
+      "doc_id": 1031,
+      "source_id": 1187,
+      "title": "Jebcato Library Bafev",
+      "genre": "Poetry",
+      "price": 22.81
+    },
+    {
+      "doc_id": 1037,
+      "source_id": 1261,
+      "title": "Lesson Sa",
+      "genre": "Classics",
+      "price": 32.95
+    },
+    {
+      "doc_id": 1038,
+      "source_id": 1498,
+      "title": "Nu Clock All",
+      "genre": "Art",
+      "price": 40.38
+    },
+    {
+      "doc_id": 1041,
+      "source_id": 1520,
+      "title": "Vyhetkyfil Where",
+      "genre": "Fantasy",
+      "price": 45.93
+    },
+    {
+      "doc_id": 1045,
+      "source_id": 1230,
+      "title": "Citvyfpysvo Ju Nyci Love",
+      "genre": "Poetry",
+      "price": 16.07
+    },
+    {
+      "doc_id": 1047,
+      "source_id": 1744,
+      "title": "Witness Gyppovtoden Ni",
+      "genre": "Poetry",
+      "price": 34.5
+    },
+    {
+      "doc_id": 1048,
+      "source_id": 231,
+      "title": "The Wright Brothers",
+      "genre": "",
+      "price": 56.8
+    },
+    {
+      "doc_id": 1051,
+      "source_id": 75,
+      "title": "Security",
+      "genre": "",
+      "price": 39.25
+    },
+    {
+      "doc_id": 1053,
+      "source_id": 1539,
+      "title": "Jelivhe Relacy",
+      "genre": "Science",
+      "price": 56.75
+    },
+    {
+      "doc_id": 1057,
+      "source_id": 1739,
+      "title": "Zyttykekweg Vyj From",
+      "genre": "Travel",
+      "price": 58.51
+    },
+    {
+      "doc_id": 1059,
+      "source_id": 8,
+      "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "genre": "",
+      "price": 22.6
+    },
+    {
+      "doc_id": 1063,
+      "source_id": 354,
+      "title": "My Kitchen Year: 136 Recipes That Saved My Life",
+      "genre": "",
+      "price": 11.53
+    },
+    {
+      "doc_id": 1064,
+      "source_id": 761,
+      "title": "The Cuckoo&#39;s Calling (Cormoran Strike #1)",
+      "genre": "",
+      "price": 19.21
+    },
+    {
+      "doc_id": 1065,
+      "source_id": 1535,
+      "title": "Sa Tifugsigyl Luvi Navohzisuk",
+      "genre": "Art",
+      "price": 13.72
+    },
+    {
+      "doc_id": 1068,
+      "source_id": 1714,
+      "title": "Lytkegmud Of Hojmavfo",
+      "genre": "Poetry",
+      "price": 50.15
+    },
+    {
+      "doc_id": 1070,
+      "source_id": 1132,
+      "title": "Jon That Luvi",
+      "genre": "Thriller",
+      "price": 30.99
+    },
+    {
+      "doc_id": 1071,
+      "source_id": 1191,
+      "title": "Child Rup",
+      "genre": "Fantasy",
+      "price": 53.5
+    },
+    {
+      "doc_id": 1075,
+      "source_id": 325,
+      "title": "City of Ashes (The Mortal Instruments #2)",
+      "genre": "",
+      "price": 47.27
+    },
+    {
+      "doc_id": 1076,
+      "source_id": 1892,
+      "title": "Revolution Fihfawiz Susjip Luwkalammu",
+      "genre": "Art",
+      "price": 17.0
+    },
+    {
+      "doc_id": 1078,
+      "source_id": 817,
+      "title": "Lean In: Women, Work, and the Will to Lead",
+      "genre": "",
+      "price": 25.02
+    },
+    {
+      "doc_id": 1090,
+      "source_id": 575,
+      "title": "Death Note, Vol. 6: Give-and-Take (Death Note #6)",
+      "genre": "",
+      "price": 36.39
+    },
+    {
+      "doc_id": 1091,
+      "source_id": 1434,
+      "title": "Vuwlu Kavi Lekytavko",
+      "genre": "Romance",
+      "price": 38.89
+    },
+    {
+      "doc_id": 1096,
+      "source_id": 1694,
+      "title": "Archive Nu",
+      "genre": "Romance",
+      "price": 52.63
+    },
+    {
+      "doc_id": 1098,
+      "source_id": 257,
+      "title": "That Darkness (Gardiner and Renner #1)",
+      "genre": "",
+      "price": 13.92
+    },
+    {
+      "doc_id": 1102,
+      "source_id": 909,
+      "title": "Twenty Love Poems and a Song of Despair",
+      "genre": "",
+      "price": 30.95
+    },
+    {
+      "doc_id": 1103,
+      "source_id": 767,
+      "title": "The Book Thief",
+      "genre": "",
+      "price": 53.49
+    },
+    {
+      "doc_id": 1104,
+      "source_id": 1075,
+      "title": "Fo Jon",
+      "genre": "Horror",
+      "price": 10.68
+    },
+    {
+      "doc_id": 1105,
+      "source_id": 1630,
+      "title": "Fewfy What",
+      "genre": "History",
+      "price": 16.52
+    },
+    {
+      "doc_id": 1106,
+      "source_id": 582,
+      "title": "Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis",
+      "genre": "",
+      "price": 48.67
+    },
+    {
+      "doc_id": 1107,
+      "source_id": 976,
+      "title": "Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",
+      "genre": "",
+      "price": 45.24
+    },
+    {
+      "doc_id": 1109,
+      "source_id": 535,
+      "title": "Every Heart a Doorway (Every Heart A Doorway #1)",
+      "genre": "",
+      "price": 12.16
+    },
+    {
+      "doc_id": 1112,
+      "source_id": 1753,
+      "title": "Paduj Kyzmokyz",
+      "genre": "History",
+      "price": 33.83
+    },
+    {
+      "doc_id": 1114,
+      "source_id": 1491,
+      "title": "Caskumolra Circaspuk",
+      "genre": "Fantasy",
+      "price": 39.39
+    },
+    {
+      "doc_id": 1116,
+      "source_id": 834,
+      "title": "Heir to the Sky",
+      "genre": "",
+      "price": 44.07
+    },
+    {
+      "doc_id": 1119,
+      "source_id": 1356,
+      "title": "He Tara Tabpibav Garden",
+      "genre": "Classics",
+      "price": 18.81
+    },
+    {
+      "doc_id": 1129,
+      "source_id": 1247,
+      "title": "Tuvvinke Dezlezipy Manuscript Regbojakdu",
+      "genre": "Biography",
+      "price": 25.44
+    },
+    {
+      "doc_id": 1130,
+      "source_id": 1896,
+      "title": "Battle Descukcuceg",
+      "genre": "Romance",
+      "price": 58.5
+    },
+    {
+      "doc_id": 1131,
+      "source_id": 376,
+      "title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+      "genre": "",
+      "price": 54.36
+    },
+    {
+      "doc_id": 1132,
+      "source_id": 1651,
+      "title": "Ju Gycozor Village",
+      "genre": "Historical Fiction",
+      "price": 41.12
+    },
+    {
+      "doc_id": 1133,
+      "source_id": 721,
+      "title": "The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",
+      "genre": "",
+      "price": 55.55
+    },
+    {
+      "doc_id": 1136,
+      "source_id": 1679,
+      "title": "Ruve Reading",
+      "genre": "Science",
+      "price": 15.76
+    },
+    {
+      "doc_id": 1137,
+      "source_id": 1659,
+      "title": "Ra Canepybe Jebcato Dulmu",
+      "genre": "Philosophy",
+      "price": 39.29
+    },
+    {
+      "doc_id": 1138,
+      "source_id": 100,
+      "title": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+      "genre": "",
+      "price": 57.36
+    },
+    {
+      "doc_id": 1141,
+      "source_id": 1401,
+      "title": "Lekytavko Dubecmewyf Neighbour Any",
+      "genre": "Music",
+      "price": 23.37
+    },
+    {
+      "doc_id": 1142,
+      "source_id": 1722,
+      "title": "Hinofe Zisuso Jutze",
+      "genre": "Horror",
+      "price": 54.05
+    },
+    {
+      "doc_id": 1144,
+      "source_id": 1155,
+      "title": "Stranger Codcidnicly Door",
+      "genre": "Science Fiction",
+      "price": 56.12
+    },
+    {
+      "doc_id": 1145,
+      "source_id": 1373,
+      "title": "Giso Cebitup Kyzmokyz Was",
+      "genre": "Science",
+      "price": 36.97
+    },
+    {
+      "doc_id": 1149,
+      "source_id": 5,
+      "title": "The Requiem Red",
+      "genre": "",
+      "price": 22.65
+    },
+    {
+      "doc_id": 1156,
+      "source_id": 1344,
+      "title": "Mej Wedding Vydty",
+      "genre": "History",
+      "price": 11.27
+    },
+    {
+      "doc_id": 1157,
+      "source_id": 1747,
+      "title": "Lighthouse Descukcuceg",
+      "genre": "Mystery",
+      "price": 50.23
+    },
+    {
+      "doc_id": 1164,
+      "source_id": 914,
+      "title": "The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",
+      "genre": "",
+      "price": 36.52
+    },
+    {
+      "doc_id": 1167,
+      "source_id": 913,
+      "title": "The Zombie Room",
+      "genre": "",
+      "price": 19.69
+    },
+    {
+      "doc_id": 1172,
+      "source_id": 1511,
+      "title": "Vurujkigri Gyppovtoden Translation Diro",
+      "genre": "History",
+      "price": 42.1
+    },
+    {
+      "doc_id": 1175,
+      "source_id": 1178,
+      "title": "Syj Biphuj",
+      "genre": "Fantasy",
+      "price": 10.59
+    },
+    {
+      "doc_id": 1176,
+      "source_id": 1866,
+      "title": "Spell Rup Majvucurud",
+      "genre": "History",
+      "price": 34.98
+    },
+    {
+      "doc_id": 1177,
+      "source_id": 1550,
+      "title": "Ba Sunoci Savu",
+      "genre": "Childrens",
+      "price": 11.44
+    },
+    {
+      "doc_id": 1179,
+      "source_id": 639,
+      "title": "America&#39;s War for the Greater Middle East: A Military History",
+      "genre": "",
+      "price": 51.22
+    },
+    {
+      "doc_id": 1180,
+      "source_id": 1136,
+      "title": "Rup The Wobowfi",
+      "genre": "History",
+      "price": 48.21
+    },
+    {
+      "doc_id": 1183,
+      "source_id": 1034,
+      "title": "Bafev Ra Magic Hejmewsy",
+      "genre": "Horror",
+      "price": 32.05
+    },
+    {
+      "doc_id": 1185,
+      "source_id": 1214,
+      "title": "Di Day Road Love",
+      "genre": "Childrens",
+      "price": 47.69
+    },
+    {
+      "doc_id": 1186,
+      "source_id": 1275,
+      "title": "Lidbetri Nivavgyh Lojduwliwla",
+      "genre": "Horror",
+      "price": 45.17
+    },
+    {
+      "doc_id": 1193,
+      "source_id": 1292,
+      "title": "Hefbujewwy Saluf Wakfachi",
+      "genre": "Historical Fiction",
+      "price": 54.93
+    },
+    {
+      "doc_id": 1197,
+      "source_id": 293,
+      "title": "Lady Midnight (The Dark Artifices #1)",
+      "genre": "",
+      "price": 16.28
+    },
+    {
+      "doc_id": 1199,
+      "source_id": 364,
+      "title": "The Epidemic (The Program 0.6)",
+      "genre": "",
+      "price": 14.44
+    },
+    {
+      "doc_id": 1200,
+      "source_id": 1516,
+      "title": "Wipsaruda School",
+      "genre": "Historical Fiction",
+      "price": 21.04
+    },
+    {
+      "doc_id": 1204,
+      "source_id": 1051,
+      "title": "General Letter",
+      "genre": "Music",
+      "price": 47.09
+    },
+    {
+      "doc_id": 1206,
+      "source_id": 397,
+      "title": "Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",
+      "genre": "",
+      "price": 21.15
+    },
+    {
+      "doc_id": 1207,
+      "source_id": 498,
+      "title": "The Year of Living Biblically: One Man&#39;s Humble Quest to Follow the Bible as Literally as Possible",
+      "genre": "",
+      "price": 34.72
+    },
+    {
+      "doc_id": 1208,
+      "source_id": 688,
+      "title": "A Walk to Remember",
+      "genre": "",
+      "price": 56.43
+    },
+    {
+      "doc_id": 1210,
+      "source_id": 1673,
+      "title": "Navohzisuk Vidwuw",
+      "genre": "Historical Fiction",
+      "price": 35.49
+    },
+    {
+      "doc_id": 1211,
+      "source_id": 251,
+      "title": "The First Hostage (J.B. Collins #2)",
+      "genre": "",
+      "price": 25.85
+    },
+    {
+      "doc_id": 1213,
+      "source_id": 757,
+      "title": "The Devil Wears Prada (The Devil Wears Prada #1)",
+      "genre": "",
+      "price": 44.29
+    },
+    {
+      "doc_id": 1214,
+      "source_id": 1712,
+      "title": "Witch Hefuw Tywowe",
+      "genre": "Historical Fiction",
+      "price": 51.95
+    },
+    {
+      "doc_id": 1216,
+      "source_id": 486,
+      "title": "Brazen: The Courage to Find the You That&#39;s Been Hiding",
+      "genre": "",
+      "price": 19.22
+    },
+    {
+      "doc_id": 1217,
+      "source_id": 589,
+      "title": "The Raven Boys (The Raven Cycle #1)",
+      "genre": "",
+      "price": 57.74
+    },
+    {
+      "doc_id": 1218,
+      "source_id": 393,
+      "title": "The Improbability of Love",
+      "genre": "",
+      "price": 59.45
+    },
+    {
+      "doc_id": 1220,
+      "source_id": 1255,
+      "title": "Sahon Gudazru Descukcuceg Sa",
+      "genre": "Romance",
+      "price": 20.59
+    },
+    {
+      "doc_id": 1222,
+      "source_id": 865,
+      "title": "Brave Enough",
+      "genre": "",
+      "price": 51.32
+    },
+    {
+      "doc_id": 1225,
+      "source_id": 1438,
+      "title": "Nygigawyw Pitec",
+      "genre": "Mystery",
+      "price": 55.85
+    },
+    {
+      "doc_id": 1227,
+      "source_id": 1608,
+      "title": "Ruve Pujiv",
+      "genre": "Fantasy",
+      "price": 31.41
+    },
+    {
+      "doc_id": 1228,
+      "source_id": 457,
+      "title": "Smarter Faster Better: The Secrets of Being Productive in Life and Business",
+      "genre": "",
+      "price": 38.89
+    },
+    {
+      "doc_id": 1239,
+      "source_id": 1260,
+      "title": "Diro Spell An Vu",
+      "genre": "Childrens",
+      "price": 44.43
+    },
+    {
+      "doc_id": 1240,
+      "source_id": 101,
+      "title": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",
+      "genre": "",
+      "price": 29.17
+    },
+    {
+      "doc_id": 1248,
+      "source_id": 1600,
+      "title": "Ny Magic Circaspuk",
+      "genre": "Biography",
+      "price": 29.98
+    },
+    {
+      "doc_id": 1250,
+      "source_id": 1065,
+      "title": "Cycbydoh Cy",
+      "genre": "Music",
+      "price": 19.06
+    },
+    {
+      "doc_id": 1251,
+      "source_id": 1716,
+      "title": "Writing Nir Tumozgenil Was",
+      "genre": "Science Fiction",
+      "price": 47.22
+    },
+    {
+      "doc_id": 1253,
+      "source_id": 50,
+      "title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+      "genre": "",
+      "price": 25.52
+    },
+    {
+      "doc_id": 1254,
+      "source_id": 1430,
+      "title": "Archive With Puj Lowekte",
+      "genre": "Childrens",
+      "price": 40.4
+    },
+    {
+      "doc_id": 1262,
+      "source_id": 609,
+      "title": "Remember Me?",
+      "genre": "",
+      "price": 11.48
+    },
+    {
+      "doc_id": 1264,
+      "source_id": 1366,
+      "title": "Nyci Hinofe",
+      "genre": "Science",
+      "price": 48.68
+    },
+    {
+      "doc_id": 1268,
+      "source_id": 1095,
+      "title": "Empire Accent",
+      "genre": "Thriller",
+      "price": 39.14
+    },
+    {
+      "doc_id": 1272,
+      "source_id": 303,
+      "title": "God: The Most Unpleasant Character in All Fiction",
+      "genre": "",
+      "price": 30.03
+    },
+    {
+      "doc_id": 1273,
+      "source_id": 1620,
+      "title": "Cisywij Is Island Signal",
+      "genre": "Romance",
+      "price": 51.38
+    },
+    {
+      "doc_id": 1275,
+      "source_id": 726,
+      "title": "The Rest Is Noise: Listening to the Twentieth Century",
+      "genre": "",
+      "price": 34.77
+    },
+    {
+      "doc_id": 1276,
+      "source_id": 339,
+      "title": "Angels &amp; Demons (Robert Langdon #1)",
+      "genre": "",
+      "price": 51.48
+    },
+    {
+      "doc_id": 1279,
+      "source_id": 1418,
+      "title": "Hefuw Pe",
+      "genre": "Science",
+      "price": 36.57
+    },
+    {
+      "doc_id": 1280,
+      "source_id": 1279,
+      "title": "Desert With Kamebnol",
+      "genre": "Horror",
+      "price": 20.06
+    },
+    {
+      "doc_id": 1281,
+      "source_id": 1420,
+      "title": "Gob Wemnusym Had",
+      "genre": "Travel",
+      "price": 50.68
+    },
+    {
+      "doc_id": 1284,
+      "source_id": 107,
+      "title": "First and First (Five Boroughs #3)",
+      "genre": "",
+      "price": 15.97
+    },
+    {
+      "doc_id": 1286,
+      "source_id": 1623,
+      "title": "Lesson Se Writing",
+      "genre": "Historical Fiction",
+      "price": 28.25
+    },
+    {
+      "doc_id": 1296,
+      "source_id": 352,
+      "title": "Searching for Meaning in Gailana",
+      "genre": "",
+      "price": 38.73
+    },
+    {
+      "doc_id": 1297,
+      "source_id": 1802,
+      "title": "Hef Hinofe",
+      "genre": "Science Fiction",
+      "price": 21.07
+    },
+    {
+      "doc_id": 1298,
+      "source_id": 1875,
+      "title": "Or For Fogyhosi Memory",
+      "genre": "Classics",
+      "price": 12.05
+    },
+    {
+      "doc_id": 1301,
+      "source_id": 779,
+      "title": "Shopaholic &amp; Baby (Shopaholic #5)",
+      "genre": "",
+      "price": 46.45
+    },
+    {
+      "doc_id": 1303,
+      "source_id": 324,
+      "title": "City of Bones (The Mortal Instruments #1)",
+      "genre": "",
+      "price": 43.28
+    },
+    {
+      "doc_id": 1304,
+      "source_id": 1801,
+      "title": "Zisuso Promise",
+      "genre": "Science",
+      "price": 52.09
+    },
+    {
+      "doc_id": 1305,
+      "source_id": 428,
+      "title": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+      "genre": "",
+      "price": 55.91
+    },
+    {
+      "doc_id": 1307,
+      "source_id": 710,
+      "title": "Three-Martini Lunch",
+      "genre": "",
+      "price": 23.21
+    },
+    {
+      "doc_id": 1311,
+      "source_id": 1069,
+      "title": "Wipewi Lojduwliwla",
+      "genre": "Romance",
+      "price": 53.39
+    },
+    {
+      "doc_id": 1312,
+      "source_id": 1458,
+      "title": "Fy And",
+      "genre": "Horror",
+      "price": 32.79
+    },
+    {
+      "doc_id": 1316,
+      "source_id": 746,
+      "title": "The Guns of August",
+      "genre": "",
+      "price": 14.54
+    },
+    {
+      "doc_id": 1317,
+      "source_id": 730,
+      "title": "The Picture of Dorian Gray",
+      "genre": "",
+      "price": 29.7
+    },
+    {
+      "doc_id": 1323,
+      "source_id": 686,
+      "title": "Atlas Shrugged",
+      "genre": "",
+      "price": 26.58
+    },
+    {
+      "doc_id": 1326,
+      "source_id": 1556,
+      "title": "Caskumolra Window Sugji Night",
+      "genre": "Mystery",
+      "price": 40.48
+    },
+    {
+      "doc_id": 1329,
+      "source_id": 864,
+      "title": "Breaking Dawn (Twilight #4)",
+      "genre": "",
+      "price": 35.28
+    },
+    {
+      "doc_id": 1330,
+      "source_id": 1800,
+      "title": "Manuscript Have",
+      "genre": "Science",
+      "price": 52.23
+    },
+    {
+      "doc_id": 1331,
+      "source_id": 1778,
+      "title": "Had Fewfy House",
+      "genre": "Poetry",
+      "price": 28.86
+    },
+    {
+      "doc_id": 1333,
+      "source_id": 41,
+      "title": "Reasons to Stay Alive",
+      "genre": "",
+      "price": 26.41
+    },
+    {
+      "doc_id": 1334,
+      "source_id": 1537,
+      "title": "Mirror Window Be Lobu",
+      "genre": "Art",
+      "price": 46.62
+    },
+    {
+      "doc_id": 1335,
+      "source_id": 40,
+      "title": "Slow States of Collapse: Poems",
+      "genre": "",
+      "price": 57.31
+    },
+    {
+      "doc_id": 1340,
+      "source_id": 155,
+      "title": "The Glittering Court (The Glittering Court #1)",
+      "genre": "",
+      "price": 44.28
+    },
+    {
+      "doc_id": 1343,
+      "source_id": 1748,
+      "title": "Island It Vygu",
+      "genre": "Romance",
+      "price": 17.91
+    },
+    {
+      "doc_id": 1344,
+      "source_id": 496,
+      "title": "Under the Tuscan Sun",
+      "genre": "",
+      "price": 37.33
+    },
+    {
+      "doc_id": 1346,
+      "source_id": 1152,
+      "title": "Dyzy Desert Poem",
+      "genre": "Poetry",
+      "price": 55.54
+    },
+    {
+      "doc_id": 1351,
+      "source_id": 1713,
+      "title": "Engineer Dulmu",
+      "genre": "History",
+      "price": 32.59
+    },
+    {
+      "doc_id": 1353,
+      "source_id": 855,
+      "title": "Darkfever (Fever #1)",
+      "genre": "",
+      "price": 56.02
+    },
+    {
+      "doc_id": 1354,
+      "source_id": 1858,
+      "title": "Zud Givewecjel",
+      "genre": "Classics",
+      "price": 13.28
+    },
+    {
+      "doc_id": 1355,
+      "source_id": 718,
+      "title": "The Stand",
+      "genre": "",
+      "price": 57.86
+    },
+    {
+      "doc_id": 1356,
+      "source_id": 340,
+      "title": "All the Light We Cannot See",
+      "genre": "",
+      "price": 29.87
+    },
+    {
+      "doc_id": 1357,
+      "source_id": 580,
+      "title": "World Without End (The Pillars of the Earth #2)",
+      "genre": "",
+      "price": 32.97
+    },
+    {
+      "doc_id": 1358,
+      "source_id": 1264,
+      "title": "Robot Question",
+      "genre": "Biography",
+      "price": 47.6
+    },
+    {
+      "doc_id": 1360,
+      "source_id": 1731,
+      "title": "Jy Bafev Ca",
+      "genre": "Biography",
+      "price": 14.42
+    },
+    {
+      "doc_id": 1361,
+      "source_id": 981,
+      "title": "Forever Rockers (The Rocker #12)",
+      "genre": "",
+      "price": 28.8
+    },
+    {
+      "doc_id": 1363,
+      "source_id": 1658,
+      "title": "Jebcato Te How",
+      "genre": "Classics",
+      "price": 54.53
+    },
+    {
+      "doc_id": 1366,
+      "source_id": 424,
+      "title": "The Shack",
+      "genre": "",
+      "price": 28.03
+    },
+    {
+      "doc_id": 1367,
+      "source_id": 450,
+      "title": "The New Drawing on the Right Side of the Brain",
+      "genre": "",
+      "price": 43.02
+    },
+    {
+      "doc_id": 1368,
+      "source_id": 1653,
+      "title": "An Nygigawyw Railway",
+      "genre": "Biography",
+      "price": 50.21
+    },
+    {
+      "doc_id": 1369,
+      "source_id": 663,
+      "title": "Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",
+      "genre": "",
+      "price": 12.36
+    },
+    {
+      "doc_id": 1370,
+      "source_id": 1462,
+      "title": "Wipewi Paduj Tulilaw",
+      "genre": "Historical Fiction",
+      "price": 59.59
+    },
+    {
+      "doc_id": 1371,
+      "source_id": 1544,
+      "title": "Py Fipokem General Museum",
+      "genre": "Science Fiction",
+      "price": 56.58
+    },
+    {
+      "doc_id": 1372,
+      "source_id": 851,
+      "title": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+      "genre": "",
+      "price": 51.48
+    },
+    {
+      "doc_id": 1373,
+      "source_id": 890,
+      "title": "The Sandman, Vol. 2: The Doll&#39;s House (The Sandman (volumes) #2)",
+      "genre": "",
+      "price": 54.81
+    },
+    {
+      "doc_id": 1376,
+      "source_id": 1055,
+      "title": "Lovu Prison Cebitup Witness",
+      "genre": "Music",
+      "price": 55.77
+    },
+    {
+      "doc_id": 1379,
+      "source_id": 479,
+      "title": "History of Beauty",
+      "genre": "",
+      "price": 10.29
+    },
+    {
+      "doc_id": 1383,
+      "source_id": 1524,
+      "title": "Rok Lowvylcydla Planet Archive",
+      "genre": "Fantasy",
+      "price": 16.98
+    },
+    {
+      "doc_id": 1387,
+      "source_id": 336,
+      "title": "Art Ops Vol. 1",
+      "genre": "",
+      "price": 48.8
+    },
+    {
+      "doc_id": 1388,
+      "source_id": 706,
+      "title": "Two Boys Kissing",
+      "genre": "",
+      "price": 32.74
+    },
+    {
+      "doc_id": 1391,
+      "source_id": 828,
+      "title": "I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban",
+      "genre": "",
+      "price": 28.88
+    },
+    {
+      "doc_id": 1395,
+      "source_id": 1883,
+      "title": "Li Puj",
+      "genre": "Fantasy",
+      "price": 13.69
+    },
+    {
+      "doc_id": 1397,
+      "source_id": 837,
+      "title": "Gratitude",
+      "genre": "",
+      "price": 26.66
+    },
+    {
+      "doc_id": 1398,
+      "source_id": 315,
+      "title": "Demigods &amp; Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson &amp; Kane Chronicles Crossover #1-3)",
+      "genre": "",
+      "price": 37.51
+    },
+    {
+      "doc_id": 1413,
+      "source_id": 1764,
+      "title": "Vuwlu It Road Susjip",
+      "genre": "Travel",
+      "price": 28.91
+    },
+    {
+      "doc_id": 1414,
+      "source_id": 1021,
+      "title": "Child General Day Jelivhe",
+      "genre": "Art",
+      "price": 40.54
+    },
+    {
+      "doc_id": 1419,
+      "source_id": 1777,
+      "title": "When Targozavje",
+      "genre": "Science Fiction",
+      "price": 54.39
+    },
+    {
+      "doc_id": 1420,
+      "source_id": 1384,
+      "title": "Door Relacy",
+      "genre": "Classics",
+      "price": 13.4
+    },
+    {
+      "doc_id": 1423,
+      "source_id": 736,
+      "title": "The Name of God is Mercy",
+      "genre": "",
+      "price": 37.25
+    },
+    {
+      "doc_id": 1424,
+      "source_id": 1365,
+      "title": "Cebitup Revolution Jyhfyvy Of",
+      "genre": "Travel",
+      "price": 54.96
+    },
+    {
+      "doc_id": 1425,
+      "source_id": 93,
+      "title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+      "genre": "",
+      "price": 46.91
+    },
+    {
+      "doc_id": 1429,
+      "source_id": 947,
+      "title": "Shatter Me (Shatter Me #1)",
+      "genre": "",
+      "price": 42.4
+    },
+    {
+      "doc_id": 1430,
+      "source_id": 1396,
+      "title": "Fejmilbimcy Po Luvi",
+      "genre": "Thriller",
+      "price": 36.38
+    },
+    {
+      "doc_id": 1436,
+      "source_id": 19,
+      "title": "It&#39;s Only the Himalayas",
+      "genre": "",
+      "price": 45.17
+    },
+    {
+      "doc_id": 1437,
+      "source_id": 1769,
+      "title": "Secret Hef",
+      "genre": "History",
+      "price": 39.09
+    },
+    {
+      "doc_id": 1439,
+      "source_id": 138,
+      "title": "The Third Wave: An Entrepreneur’s Vision of the Future",
+      "genre": "",
+      "price": 12.61
+    },
+    {
+      "doc_id": 1440,
+      "source_id": 1641,
+      "title": "Of Engineer Rhythm",
+      "genre": "Art",
+      "price": 57.75
+    },
+    {
+      "doc_id": 1441,
+      "source_id": 963,
+      "title": "Of Mice and Men",
+      "genre": "",
+      "price": 47.11
+    },
+    {
+      "doc_id": 1443,
+      "source_id": 992,
+      "title": "Blood Defense (Samantha Brinkman #1)",
+      "genre": "",
+      "price": 20.3
+    },
+    {
+      "doc_id": 1445,
+      "source_id": 1457,
+      "title": "Hofy Kingdom Nygigawyw Book",
+      "genre": "Science",
+      "price": 57.98
+    },
+    {
+      "doc_id": 1450,
+      "source_id": 475,
+      "title": "I&#39;ll Give You the Sun",
+      "genre": "",
+      "price": 56.48
+    },
+    {
+      "doc_id": 1451,
+      "source_id": 1701,
+      "title": "Fy Poem",
+      "genre": "Science",
+      "price": 44.06
+    },
+    {
+      "doc_id": 1456,
+      "source_id": 1303,
+      "title": "Be Givewecjel Silamge Nu",
+      "genre": "Science Fiction",
+      "price": 55.48
+    },
+    {
+      "doc_id": 1460,
+      "source_id": 1213,
+      "title": "Sugji Diho Te",
+      "genre": "Historical Fiction",
+      "price": 13.8
+    },
+    {
+      "doc_id": 1466,
+      "source_id": 1351,
+      "title": "Sunoci This",
+      "genre": "Science",
+      "price": 20.04
+    },
+    {
+      "doc_id": 1468,
+      "source_id": 1871,
+      "title": "Jagcecu Robot",
+      "genre": "Childrens",
+      "price": 42.86
+    },
+    {
+      "doc_id": 1475,
+      "source_id": 1154,
+      "title": "Escape Ocean Wicvy Ny",
+      "genre": "Mystery",
+      "price": 48.66
+    },
+    {
+      "doc_id": 1476,
+      "source_id": 1224,
+      "title": "She Diro All",
+      "genre": "Fantasy",
+      "price": 11.09
+    },
+    {
+      "doc_id": 1478,
+      "source_id": 1315,
+      "title": "Gu When Light Mej",
+      "genre": "Romance",
+      "price": 37.03
+    },
+    {
+      "doc_id": 1482,
+      "source_id": 1076,
+      "title": "Nu Hamebonub Cyha Nivagichy",
+      "genre": "Travel",
+      "price": 42.81
+    },
+    {
+      "doc_id": 1484,
+      "source_id": 1120,
+      "title": "Poem Tabpibav Hedu",
+      "genre": "Poetry",
+      "price": 16.65
+    },
+    {
+      "doc_id": 1490,
+      "source_id": 630,
+      "title": "Dracula the Un-Dead",
+      "genre": "",
+      "price": 35.63
+    },
+    {
+      "doc_id": 1491,
+      "source_id": 1232,
+      "title": "Litgi Child Navfaj Diro",
+      "genre": "Science",
+      "price": 31.91
+    },
+    {
+      "doc_id": 1499,
+      "source_id": 1813,
+      "title": "Winter Zapo Prison Pug",
+      "genre": "Art",
+      "price": 53.53
+    }
+  ]
+}
